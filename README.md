@@ -82,18 +82,23 @@ The AI hype got cut, the Ballarat result became the opening, and privacy moved f
 
 ## Does it actually help?
 
-Each test prompt ran twice, once with the skill and once without, and **blind judges** compared the two answers without knowing which was which. The prompts were:
+We tested it on **100 realistic "my work is stuck" requests** across 10 categories: op-eds, talks, pitches, academic writing, strategy, proposals, positioning, team problems, and business and life decisions. Each request was answered twice by the same model, once with the skill and once without. **Two blind AI judges** compared every pair without knowing which answer used the skill, with the order swapped between them.
 
-- an op-ed that wouldn't land
-- a seed-versus-bootstrap founder decision
-- a 15-minute research talk with no through-line
+On **Claude Opus 5.5**, the table counts how many of the 200 judgements rated the skill answer better or worse:
 
-| | Wins |
-|---|---|
-| **With shape rotate** | **5 of 6** blind comparisons |
-| Without | 1 of 6 |
+| With shape rotate, compared with without | Better | Worse |
+|---|---|---|
+| Clear central idea | **98** | 14 |
+| Pieces arranged so it works | **101** | 44 |
+| Faithful to the person's own facts | **141** | 29 |
+| Concise | **111** | 60 |
+| **Cases won outright** | **44** | 34 (22 ties) |
 
-Judges said the skill's answers found sharper spines and delivered finished rebuilds rather than advice. They also kept every piece of the user's material in play. Their one complaint was clutter: a full scorecard of every rotation. That scorecard is gone from v1.0, so you now get the shape and the rebuilt work, and the rotation log only if you ask for it.
+Answers were also about a quarter shorter (a median of 573 words against 748). The skill did best on op-eds (5 to 1), research talks (5 to 1), academic writing, strategy and team problems. Its weak spot is business decisions (1 to 7), where the judges wanted the arithmetic checked and the recommendation first. The overall lean (56% of decisive cases) is not yet statistically significant. The four criterion gains above are (p < 0.001).
+
+On the small **Haiku 4.5** model, the method still sharpened the central idea and structure, but Haiku invented details when it rebuilt drafts, so the result was a draw. Version 1.0 made Haiku narrate the whole method and lost clearly. Version 1.1 keeps the working private and forbids invented facts, which turned that loss into a draw.
+
+Full results, every answer, every verdict with its reasons, and the script to rerun it are in **[evals/](evals/)**. Total API cost: $21.
 
 ## Install
 
@@ -135,6 +140,10 @@ skills/shape-rotate/
 assets/
 ├── hero.png
 └── render_hero.py              the code that draws the image above
+evals/
+├── README.md                   the 100-case benchmark and what it found
+├── bench.py                    rerun it yourself
+└── data/, data-opus/           every case, answer and judge verdict
 ```
 
 ## About the image

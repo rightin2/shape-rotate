@@ -1,0 +1,5602 @@
+{
+ "academic-01__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both pinpoint the missing punchline: the closing 'multiple factors' line undercuts the grazing-over-temperature result. B leads more boldly with the claim, but it drops site counts and adds an unsupported claim about projected regional warming. A keeps all the material, frames the caveats precisely and flags the culling-selection gap. Its diagram adds slight clutter."
+ },
+ "academic-01__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same punchline and rebuild the opening well. B keeps more of the author's wording and frames the caveats as bounds on the claim. It also inserts a placeholder for how culled sites were selected. A adds unsupported framing about projected regional warming. B's ASCII diagram is mild clutter, but its rebuilt text is more faithful."
+ },
+ "academic-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 9,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same spine (works → demand/supply → Fashola as implementation evidence → gap) and give a transferable method. A delivers it more tightly, with a clarifying diagram, and keeps the user's specific figures (68%, 22%, 31/35). B explains synthesis well and adds a useful matrix, but repeats itself across steps, change notes and checklist."
+ },
+ "academic-02__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reach the same argument and reframe Fashola well. B is tighter: a clear spine, a diagram and an equally usable method. It also keeps the user's specific figures (68%, 22%, 31 of 35), where A blurs them into 'majority'/'minority'. A explains what synthesis means more clearly, but it is padded and less faithful to the data."
+ },
+ "positioning-07__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 9,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "A has the cleaner spine and is tighter. B is more useful for the actual meeting: it names the founders in the first section, which answers Dr. Ricardo's concern, and gives a headline that doesn't rely on statistics the OAB might question. It also adds a ready Portuguese line and tactics like side-by-side mockups. B runs longer and adds some generic copy."
+ },
+ "oped-09__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both reframe the draft as a change of mind ending in tip-sharing. A does it with less process clutter and flags a real legal catch: federal tip-credit rules can bar cooks from the pool. B's thesis line is sharper, but its diagrams and change log pad it, and its 'six of seven years' line misstates the timeline. A invents a $32 price, a small slip."
+ },
+ "strategy-06__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same spine: lead with the slotting pilot and give the other themes enabling roles. A delivers a complete, ready-to-use rebuilt draft, with gating logic that justifies an unequal split without inventing numbers. B gives sharper board-facing reasoning and an illustrative weighting, but leaves most of the writing to the user. A's 'no marketing' claim is a minor invention."
+ },
+ "talk-05__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A names a crisp spine (grades track home circumstances; Lincoln shows a cap is safe) and delivers a ready-to-run, timed session with a scripted opening and a built-in math rebuttal. B's diagnosis is sharper, notably that the D/F drop may be mechanical, but it is a longer advice list rather than a rebuilt talk."
+ },
+ "academic-03__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "A anchors both findings in the two-sector model's falsifiable prediction that informal wages should fall. That makes the 4.2% rise genuinely surprising and makes disemployment a necessary setup, resolving the impasse directly. B is tighter and more faithful to the original wording, but its 'escape valve' framing is less sharp. A also adds an elasticity check and a usable conclusion sentence."
+ },
+ "team-07__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same spine: firmware is the root cause, so it becomes the ask. A delivers a cleaner talk track that is ready to speak, plus useful Q&A prep and a 2-minute fallback. B adds process clutter (the 'what moved' list and the diagram) and invents the claim that the till is the main channel. It also drops the late-posters point."
+ },
+ "talk-09__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same reseller-onboarding spine and use tenured customers as the control group. B's deck outline is more ready to use, with real numbers and placeholders on each slide and a clear breakdown of the 94. A wrongly claims 16 exceeds price plus support combined (9+7=16). B's 'What moved' section is somewhat cluttered."
+ },
+ "strategy-03__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same core point: the real risk is setup failure in the distributor channel, and the survey skipped those customers. A delivers a near-complete rebuilt board section with clear placeholders. B gives strong diagnosis and a useful three-week action plan, but only a summary paragraph and outline. It also slightly overstates that distributors are 'about to leave anyway'."
+ },
+ "pitch-04__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both reorder the deck around the fund's two questions and lead with the pilot. B states a crisp one-sentence spine tying speed and contracts together. It also covers the moves, merges and gaps more compactly. A's points, such as the coal vs. district-heating comparison and the roadmap diluting focus, are sharp but sprawling, and its through-line arrives only at the end."
+ },
+ "positioning-03__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "B gives a crisp decision rule: the homepage belongs to visitors who arrive without a specific link. It also recasts Ciarán's expertise as the method behind the strength work, which eases the partner conflict. A is thorough and warm, but longer, and it invents a claim ('No GP referral needed'). B's Option C draft is thin, but B is tighter overall."
+ },
+ "team-04__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both spot the same insight: the dashboard depends on the collection data that B fixes. B turns this into a rebuilt, sendable doc with a scoped sequence, placeholders for unknowns, and the 14-weeks-versus-a-quarter constraint. A gives sharp diagnosis and good questions but leaves the rebuild to the user. B's diagram and headings add some clutter."
+ },
+ "proposal-09__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both make the same reframe: concede the miss, lead with coaching, and fund a staged, randomized test. B adds sharper substance: the coaching schools gained despite the same strike, turnover may be cause or effect, the grant needs re-costing, and the skeptics should be pre-briefed. A is tighter and slightly more faithful ('asked about adopting'), but B helps more."
+ },
+ "talk-07__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: why visitors don't go upstairs, answered through triangulation. B fits the academic need better by keeping each method as a 'clue'. It also gives a scripted opening and closing line, and it flags real gaps, such as how the 59% was measured, instead of supplying limitations itself. A is clear but less ready to deliver."
+ },
+ "oped-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both make the same diagnosis: the essay argues morality while the evidence proves practicality. A turns that into a ready rebuilt draft. It reuses the writer's own lines, leaves placeholders instead of inventing figures, and solves the ending with the €6 story. B adds useful checks, such as the national scope and age versus income, but stays at advice and speculates about the man's current life."
+ },
+ "talk-01__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both build the talk around the handover story. A states a crisper spine, closes on the concrete 21-to-6 result, and uses the user's own data to rebut the seasonal objection (April–September averaged about 8 falls a month). B is solid but longer with generic tips, and its closing line claims evening falls dropped without data to support it."
+ },
+ "talk-07__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reorganise the talk around one question, with the three methods as triangulation. B is more useful: it maps each fix to its cause, supplies concrete likely limitations (seasonality, three simultaneous changes, no control group) and turns the café complaint into a quotable paradox. A is tighter, with a ready opening, but leaves its limitations as placeholders."
+ },
+ "life-decision-09__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both see that Montreal and the bistro are the same exhausting life, with the daughter and Ferrand as the real stakes. A turns this into a clear table and a conditional decision path he can act on. B is warm and adds a useful hourly-pay comparison, but it ends in open questions and wrongly says he refused Ferrand."
+ },
+ "team-09__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reframe the paper around fragmentation cost and lead with the ask and the net SGD 60k. A is tighter and closer to a finished draft. B addresses the committee's real resistance better: it warns against claiming SGD 9–10M as savings, frames the Jakarta near-misses without blaming Jakarta, and plans pre-meeting talks with the DocuNest partners."
+ },
+ "life-decision-06__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both untangle the separate decisions and spot the rent-versus-farm gap. B goes further: buyout payments can't come from farm income, Wes's inheritance stake, the combine timing, Priya's income as a floor, and a trial season. It reads naturally. A is tighter, but its meta sections ('What moved', 'The shape that clicked') add clutter, and its 'remarried' test is awkward."
+ },
+ "pitch-08__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A actually opens with the 'I'm fine' hook and closes on a tight callback, keeping Lyon as the reason it's believable. B says the line is the hook, but its script still opens with 'Hi, I'm Ji-woo.' Its ASCII diagram is clutter and its ending is weaker, though the France callback is clever. A's delivery tips are practical."
+ },
+ "life-decision-10__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B's spine of Callum at the centre, with two real options (hybrid or full move), turns the buried doubts into the core of the conversation. It keeps more of his material and is tighter. A's catch that the CMS formula would likely exceed £400 is genuinely valuable, but A carries more advice and commentary around the script."
+ },
+ "strategy-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A's spine is sharper: both founders want lending and differ only on funding, with churn underneath both paths. It delivers a near-ready board narrative and a decision rule that ends the loop, and flags assumptions like repayment mechanics. B gives solid analysis, including a useful lending pressure-test, but is longer and less of a finished frame."
+ },
+ "academic-07__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: disaggregate absence from money and presence from voice, with Cruz as the conditioning factor. B gives a usable full thesis paragraph, a tighter outline that maps every source, and specific bracketed gaps to check. A adds a helpful synthesis example, but its generic 10-day plan and duplicated thesis versions add length."
+ },
+ "academic-09__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both lead with the night-shift finding and use Watson to explain why the toileting question worked. B narrowly wins: it puts a clean, near-final draft first, with tight, practical checks after. A buries its draft under diagrams and lists, though it is more careful. It flags Watson's role in the design rather than asserting it, which B overstates."
+ },
+ "pitch-06__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "A names a sharp spine (\"the fraud that never trips a rule\") and gives a rebuilt flow with a deliberate discussion slide and a list of missing data. B is practical, with good advice on pricing and the incident, but has a weaker central idea and adds a regulatory reference the person never mentioned."
+ },
+ "business-decision-06__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same spine: Bom Dia decides it, with freelancers as a bridge for Bruno and Lis. A delivers a tighter email that is ready to send, plus a sharp tip to call Camila before sending. B's two-timelines framing and Friday agenda are good, but its table, move-list and bracketed placeholders add process clutter."
+ },
+ "proposal-09__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: concede the failure, lead with coaching, and ask for a staged test. B is tighter, keeps the R$2.6M ask, and writes in the officer's first-person voice. It flags the change of ask as the officer's call and adds a direct goalposts paragraph. A asserts the strike hit the coaching schools, which is unverified, and has more surrounding commentary."
+ },
+ "business-decision-09__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both reach the same recommendation. A's rebuilt pre-read is more board-ready: a hard launch-date backstop, concrete risk responses and specific asks. B keeps the user's wording more faithfully and rightly asks whether runway covers the Q3 run cash, but leaves key gaps such as [fallback plan]. A slightly overreaches on the volume-pricing claim."
+ },
+ "positioning-09__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both rebuild the intro well from the okami's own facts. A is warmer and easier for a non-native reader, and adds a strong headline, a quick-facts strip and practical checks. B's intro is slightly more faithful and leads smartly with the bath and tattoo point, but its spine, table and 'what moved' sections are process clutter."
+ },
+ "life-decision-03__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both correctly see that the user's own research points to the job route. B gives a cleaner verdict, works through every worry, takes the energy cost of the statement seriously, and adds practical steps such as secondments and an OPPI check. A's diagram and 'what moved' section are process clutter, though its idea of reusing the statement as a cover letter is clever."
+ },
+ "business-decision-02__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "A adds the break-even math: a 38% increase means losing over 27% of affected customers before revenue falls. That is exactly what ends a debate with a numbers-driven co-founder, and A also flags where Dev will push. B's memo is clean and faithful with good tripwires, but it carries more process scaffolding and lacks that decisive quantitative argument."
+ },
+ "life-decision-07__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A opens with a clear spine and fully separates the ¥1.4M loss from the ask by presenting it as part of Haruka's offer. B's Japanese register tips are valuable, but it invents sentiments like \"we've each seen signs\" and re-links the loss to the cost-sharing request. B is also longer than it needs to be."
+ },
+ "business-decision-03__v1_1_j0": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both treat the choice as buying insurance. B checks the RBF maths and finds repayment takes about 35-38 months, not 26-30. It quantifies the dilution from A and separates the angel's value from his money, with concrete alternatives. A accepts the stated RBF figures uncritically, wraps its points in jargon headings and leaves placeholders such as [X weeks]."
+ },
+ "business-decision-05__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 6,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both pick option 3 with Ironbark as leverage. B leads with the answer the user asked for and gives concrete contract terms, including a VIC carrot that helps with Raff, plus a fallback. A wraps similar advice in odd editorial scaffolding: 'spine', 'what moved', an ASCII diagram and bracketed placeholders. It also claims NSW is 'losing money', which the user never said."
+ },
+ "talk-05__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both correctly identify the survey as the weak link. B states a clear spine and rebuilds a timed 45-minute session with a scripted opening and the math objection built in. A offers sharper vulnerability analysis and math strategy but leaves the assembly to the teacher. B's closing line slightly overclaims gap-closing that the Lincoln data doesn't show."
+ },
+ "business-decision-07__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both rewrites are clean and lead with the rate. B handles the real fear better: a separate approach for the two big firms, a ready-to-paste loyalty paragraph, a pre-decided floor, the 25% volume-loss break-even and a notice-period check. A's before/after diagram and 'what moved' list add process clutter."
+ },
+ "positioning-05__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 9,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both reorder the page around proof and installation. B adds the more valuable credibility checks: a verifiable failure claim, the downtime baseline, year-two pricing, low-friction CTAs and a reasoned headline pick. A is tighter and more faithful to the brief, but thinner. B invents some details, such as machine types and 'weeks before'. It is still the more helpful answer."
+ },
+ "academic-05__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same spine and the same c.1895-pivot structure. A gives a firmer decision, a complete outline that places religion and Ó Ceallaigh, and a clear Friday decision rule with a fallback. B's pros and cons and its sampling checks are sharper, but it is longer and less decisive. A's 'What moved' list is slight clutter."
+ },
+ "proposal-04__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same refuge-or-trap spine and promote the 18 shared sites. B delivers a rebuilt, ready-to-paste set of objectives in the applicant's own wording, with brackets for unknowns and a clear list of gaps. A adds valuable scientific checks, such as fitness measures and confounding, but is longer and stops at advice rather than a rebuilt draft."
+ },
+ "pitch-07__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both give the same direct verdict: demote the human angle. B delivers a fully rebuilt narrative from the user's own sentences, with clear placeholders, a list of what moved, and what's missing. A raises valuable investor questions such as multiplex competition and specificity. But its revenue math assumes every distributor clinic adopts at pilot volume with an invented price, and it offers only snippets rather than a rebuilt draft."
+ },
+ "strategy-07__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same unifying idea: schools are how the consumer business grows. B's note is more decisive, with an explicit not-doing list and a flywheel. Its pre-offsite checks also matter: blended CAC, B2C revenue likely exceeding school ARR, and pre-aligning the founders. B overstates some claims ('best families', renewal effect) and runs longer, so A is tighter and more faithful."
+ },
+ "academic-06__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both rebuild the intro around the 'routing, not size' insight with near-identical structure. B's prose reads more naturally and stays safely under 400 words. B explicitly flags its assumption about the 38% baseline, names concrete related work (EdgeMoE), and explains its hedging. A adds some process clutter (spine, diagram) for a similar result."
+ },
+ "team-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A builds the postmortem around three gaps (how the change reached prod, slow diagnosis, slow revert) and delivers a ready-to-use rebuilt document. Each action item maps to a gap, and assumptions are flagged. B gives strong advice, including a sharp question about whether the config change bypassed the freeze, but leaves the rewriting to the user."
+ },
+ "talk-10__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reframe the deck from study report to decision brief. B delivers a ready-to-use deck that ties the voice result to the reason SMS failed and ends on a decision table rating evidence strength. It flags unknowns with placeholders rather than invented claims. A gives good advice but asserts adequate power and adds unsupported details."
+ },
+ "pitch-09__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same spine: efficient growth, a bridge to breakeven, then expansion. A adds two points B lacks: launching Colombia/Chile in 2026 clashes with 2026 breakeven, and USD 3M must actually reach breakeven. Its CEO argument is also stronger. B is tighter and keeps more of the CEO's prose, but A better prepares the CFO."
+ },
+ "academic-09__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both reorder the material well and use Watson to explain the night-shift finding. A gives a clean, ready-to-use ~500-word draft with brief notes. B's bed-alarm contrast and refusal to invent how Watson shaped the script are stronger, but its spine, diagram and change list add clutter, and its bulleted problem statement suits academic prose less well."
+ },
+ "strategy-05__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 9,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same 47% vs 18% spine, and A is tighter. B better meets the CMO's money demands: its cost-per-retained-user math (R$211 vs R$81) uses the person's own numbers, and it preps hard-question answers and kill criteria. Its invented budget figures are clearly labelled illustrative, so they cost a little fidelity."
+ },
+ "pitch-03__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 5
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both diagnose the problem well and lead with the pilot numbers. A is ready to send, puts Daniel's name in the subject line and gives the quick note that was asked for. B wraps the email in process clutter (spine, diagram) and leaves several placeholders, so it is less usable and longer than requested."
+ },
+ "positioning-08__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both back a reframed Route A built on the 8% cap. A gives more walk-in-ready material: a working line, stakeholder scripts, adverse-selection and compounding-maths risks, and a one-sentence close. B's table is sharp and it rightly flags checking competitor caps, but its 'what moved' section is process clutter. A's 'nobody's beating us' claim is unverified."
+ },
+ "positioning-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: the guarantees are Ray's values written down. B's notes add sharper value: it flags the unexplained 'three generations' claim, the risk in promising 'no upsells,' and putting tap-to-call first. A's diagram and 'what moved' list are mostly process clutter. B adds minor invented flourishes, but helps more overall."
+ },
+ "talk-02__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both identify the dry spell as the unifying story and frame water efficiency as its cause. B goes further with a slide-by-slide deck, a spoken opening, and placeholders for the data still needed, so it is nearly ready to present. A gives valuable caveats and advice but stays an outline. B's diagram and 'what moved' list add some clutter."
+ },
+ "proposal-04__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 9,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same 'refuge or trap' spine. A delivers a tighter, ready-to-paste rebuild. B answers the cut question more directly and flags issues a panel would raise: a trap needs fitness outcomes, confounding at the shared sites, Osmia as a proxy, and foraging scale. It also supplies hypotheses and reviewer-response wording, so it helps the resubmission more despite its length."
+ },
+ "pitch-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 6
+  },
+  "concision": {
+   "A": 8,
+   "B": 5
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both correctly pick takt, using the 'sites, not modules' NRR evidence, and gate the platform pilots. A delivers a tight rebuilt memo with honest placeholders. B offers valuable extras, like converting the 19 days into euros and a board-framing tip. But it is long, and its draft adds an unstated new strategy (takt for shell, MEP and façade work) and an unsourced claim about Nordic lean culture."
+ },
+ "team-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both find the same fix: credit the team's work and own the process. A's rebuild stays truer to Bartek's material. It uses placeholders and asks him to confirm the milestone assumption. B writes new commitments into a send-ready draft, such as monthly hour reports, and asserts facts he hasn't confirmed. B's extra critiques are sharp, but they add risk."
+ },
+ "team-04__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 6
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both spot the core flaw: the dashboard depends on the broken data. A turns that into a rebuilt, sendable decision doc with a sequenced recommendation and clear placeholders. B adds sharp points, such as farmer churn as a supply risk and how firm the deals are, but leaves the rewrite to the user."
+ },
+ "strategy-03__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both spot that the data points to a distributor setup problem and that the survey excluded those customers. B states the spine crisply and delivers a rebuilt, board-ready section using the user's own numbers, with placeholders for gaps. A diagnoses well and offers good three-week actions, but only gives a summary paragraph and an outline."
+ },
+ "pitch-06__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B states a crisp spine and adds a discussion slide that hands the room to the CISO, which directly fixes the 'too much us' problem. Its slide lines stay close to the user's own material. A is tighter and handles the incident well, but it adds outside claims like BACEN alignment and gives a weaker central angle. B's 'what moved' section is somewhat redundant."
+ },
+ "team-05__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both spot that the evidence contradicts the 'pay is core' claim and catch the on-costs error. B ties pay and conditions into one story and delivers a rebuilt paper with placeholders that is ready for Thursday. It also avoids A's overstatement that only 1 of 4 cited pay. A adds useful points on pay relativities and the CEO, but gives only an outline."
+ },
+ "proposal-06__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both make the same diagnosis: point 6 is the buried headline, and point 4 implies sequencing. A delivers a near-submittable rebuilt note with decision sought, summary, two-stage recommendation and an options table, which suits a deadline tomorrow. B diagnoses clearly but leaves more of the rewriting to the user. A's diagram and 'what moved' section add some clutter."
+ },
+ "pitch-01__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A's rewrite is tighter: one causal chain from no record to no credit, then a habit that creates data, which makes lending safe. It keeps every original fact and flags its key assumption. B diagnoses well, but it drops the $800B stat while claiming it moved to the end, adds unrequested Q&A prep, and pads."
+ },
+ "talk-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reframe the deck around decisions with graded confidence. B directly resolves the PI tension and puts the caveats on the slides. It adds actionable, low-cost steps such as fixing phone registration, and it explains why cost per additional child matters. A is tighter and more slide-ready, but thinner on next steps. B makes minor unsupported assumptions, such as claiming adequate trial power."
+ },
+ "proposal-05__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 5,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 6,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "B's central idea is clear: confirm non-program savings before cutting a program. It also gives a ready-to-send board memo built from the user's own facts. A has useful caveats (who controls the bus contract, early-literacy value), but it twice wrongly says Option A meets the $96k target when it is $8k short. A also offers only a memo outline, not a draft."
+ },
+ "business-decision-09__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both reach the same clear recommendation. B's draft is more board-ready: it adds a hard launch backstop so waiting can't drift, handles each risk concretely, and makes a specific ask. A is tighter and more faithful, but leaves more placeholders. B slightly overstates the facts (\"actuarially validated,\" \"volume pricing\") and is longer."
+ },
+ "business-decision-05__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 6
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 5
+  },
+  "overall": {
+   "A": 9,
+   "B": 6
+  },
+  "winner": "A",
+  "reason": "Both choose NSW-only with Ironbark as leverage. A answers the 'just tell me' request directly and adds sharper negotiating terms, a VIC carrot for Raff, asking for a week, and a lawyer check. B wraps the same advice in process clutter (spine, diagram, 'what moved') and overstates NSW as 'losing money'."
+ },
+ "talk-04__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both tie verification to bill splitting's growth case. A is more careful. It notes that bill-split invitees are asked to pay, a weaker pull than money waiting. It also flags that survey respondents likely excluded unverified users and covers the manager. B is tighter, but it overstates the 'friend sent money' evidence as proof the mechanism works."
+ },
+ "academic-04__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both diagnose the overclaim, the single-quote 'mechanism' and the buried ASHA co-intervention. A states a clear spine and delivers a tight rebuilt discussion plus ready-to-paste limitations text that keeps the author's phrasing. B adds useful extra checks (sampling, interviewer identity, phone ownership) but is longer, and its draft presumes which theme was most common."
+ },
+ "pitch-10__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both say rework and lead with Truganina's numbers. B's single cost-pool spine is elegant but leaves key pieces as placeholders. A gives a correct, caveated scenario table, a phased commercial structure, a dedicated procurement win and specific CFO pushback prep. That makes A more ready to take straight to the AE, despite its extra length."
+ },
+ "academic-07__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both find the same insight: absence versus money, layered participation, and Cruz as the conditioning factor. A commits to one thesis and an outline where each source sits in exactly one place, with Cruz as the filter. B's outline repeats sources across sections and is padded with two thesis options and a day plan, though its synthesis example sentence is useful."
+ },
+ "oped-07__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 6
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both rightly keep support and own the 'wait' call. A has the crisper spine: staffed vs. unstaffed, output vs. availability. It keeps the founder's headline with an honest twist and invents little. B adds useful caveats and the 3.2-person coverage math, but fabricates details like 'no pay cut' and 'candidates told us' and has more preamble."
+ },
+ "proposal-06__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same core insight: point 6 beats every tariff option, and point 4 argues for sequencing. B delivers a complete rebuilt note the PS can read in half a page, with decision sought, summary, recommendation, an options table and placeholders for missing figures. A diagnoses well and is tighter but leaves more rebuilding to the user. B has some process clutter."
+ },
+ "team-07__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: the broken firmware is the root cause and the single ask. B's talk track is more speakable as quoted lines, handles points and the competitor more deftly, and adds Q&A prep plus a 2-minute fallback, which suits a 9am call. A spends more space on process ('what moved'). B slightly overreaches with 'before Christmas' and 'same marketing.'"
+ },
+ "proposal-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 6
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both find the same tension: revenue shrinks as the charge succeeds. A turns it into a clear purpose→consequence structure and a full rebuild that keeps every point, flagging gaps as placeholders. B explains well but runs longer, invents a revenue estimate, drops the EV line from its rebuild, and rewrites 'improved PT' as CBD-specific without evidence."
+ },
+ "proposal-05__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 6
+  },
+  "concision": {
+   "A": 7,
+   "B": 5
+  },
+  "overall": {
+   "A": 9,
+   "B": 6
+  },
+  "winner": "A",
+  "reason": "A gives the board a ready-to-send memo built on the person's own figures and correctly notes that both options miss the target. B wrongly says Option A meets the $96k target when it is $8k short, and it adds speculative savings figures. B's tips on staff buy-in and division bus control are useful, but it runs longer and offers no draft."
+ },
+ "life-decision-07__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both give a strong proposal-first rebuild. B is tighter and usefully flags Mother's own wishes. A edges ahead by clearly separating the ¥1.4M loss from the request, noting 'including me', and adding Japanese register and eldest-brother advice relevant to the final email. That outweighs its added claim that 'we've each seen signs' and its extra length."
+ },
+ "life-decision-02__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 6,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both lead with the news. B keeps all of Karthik's material and voice, placing Pongal and Deepa's wedding to acknowledge what the parents lose before the promises. A drops those warm details and adds sentiments he didn't write. A's letter is ready to send, while B needs the call date filled in and has some diagram clutter."
+ },
+ "positioning-09__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A names the core idea, swapping generic claims for proof facts, and opens the intro with private baths and tattoos, the most common guest question. It invents nothing and uses placeholders. B's draft and headline are strong, but it adds unconfirmed details (any-hour bathing, by train, arrival time). Its opening on family history is weaker."
+ },
+ "proposal-01__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "B's draft is more persuasive and ready to submit. Its need-solution-results-why it works-why now-ask arc reuses the founding history to explain why the voucher works. A is more faithful to the source and candid about the evidence, but it spends a lot of space on process scaffolding and its need opening is awkward. B adds some unsupported claims, such as 'impossible at night' and 'proven'."
+ },
+ "talk-06__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both lead with the spending data and hedge the safety claim. A states a sharper spine, owns the cost early and closes on removal cost against a street that is outperforming, all more tightly. B adds useful Q&A prep but runs longer, leaves cost just before the ask, and inserts an unbracketed 'lessons learned' commitment the planner never made."
+ },
+ "life-decision-01__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both make the back the deciding factor. B adds more: it names a third option (lighter NHS roles) as a real path, gives pension maths, covers revalidation and asks Halvern sharper questions, all in a warm, plain voice. A is tighter and more decisive. But its meta scaffolding ('The shape that clicked', 'What moved', the diagram, bracketed placeholders) feels mechanical for this person."
+ },
+ "oped-07__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both rebuild the piece around owning the support failure. B states a sharper spine: staffed teams versus the unstaffed team, two experiments in one. It also keeps the founder's headline voice with an honest catch. A has useful coverage math and a seasonality caveat, but invents a candidate-feedback claim and drops the user's headline. B's diagram adds slight clutter."
+ },
+ "academic-05__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: the obligation-to-belonging shift around 1895. B commits to a decision, gives a fuller rebuilt outline with an introduction and a 'what didn't change' section, and adds a clear if/then rule to settle before Friday. A is equally sharp in analysis but ends less decisively. B's 'What moved' list is slight clutter."
+ },
+ "oped-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the 'wrong clock' thread and offer an opening and outline. B wins because it targets the author's defensibility worry: it tells them to say 'highest alert' and 'likely contributed', and to specify '3.2x relative to what'. It also says why each colleague's lead falls short. A is tighter but less protective against overclaiming."
+ },
+ "business-decision-10__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 6,
+   "B": 9
+  },
+  "concision": {
+   "A": 5,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both reframe trade as Dad's legacy and propose a trial. A does more of the work the user asked for: a cost-to-serve framework, true running costs, delivery-fee and van-hire tactics, and agreed success criteria. B is tighter, stays in the user's voice and leaves blanks rather than guesses. However, B skips the margin analysis and a decision rule."
+ },
+ "life-decision-05__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 6,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 7
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both explain 'backwards' the same way and lead with the report project. B gives a near-complete, submission-ready rewrite with one placeholder and openly flags its guessed reflection. A leaves two placeholders, adds an unflagged invented feeling, and spends more space on diagrams and change lists."
+ },
+ "team-03__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both reach the same framing: staffing is the root cause and ShiftGrid is the fixable amplifier. A makes it click with a loop diagram, a scripted opening and a ready-to-use timed outline in less space. B adds useful pre-meeting checks and a good line for the director, but it runs longer and leans on speculative overlap claims."
+ },
+ "business-decision-01__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "B makes the sharpest point: extra baguettes carry mostly ingredient cost, not the 9% average margin, so recovered sales could fund the hire. Its sequenced plan uses the 10-week lead time and Margaux's tenure, and it adds a Margaux script and a sales-tally test. A is sound but wraps the advice in meta headings and leans on the average-margin view."
+ },
+ "team-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "A finds a spine that keeps the staffing request and ties it to the evidence. It then delivers a rebuilt, ready-to-use report section with honest placeholders and doesn't presume the number of positions. B's analysis is sharp, especially the queue-policy point, but it is longer and suggests specific numbers. It also doesn't rebuild the draft itself."
+ },
+ "business-decision-03__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both reframe the choice as insurance. A goes further: it corrects the RBF repayment estimate (about 35-38 months, not 26-30), quantifies the cost of each option, and separates the angel's relationships from his money. It closes with concrete renegotiation terms and a clear decision rule. B is sharp but leans on placeholders and process headings, and misses the repayment error."
+ },
+ "strategy-09__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both identify the same core idea: the mixed reach units and the missing goal, with revenue unblocking first. B delivers a rebuilt, ready-to-send writeup, a clear tier structure and an explicit decision rule, with placeholders rather than assumptions. A adds a useful capacity analysis and a CEO quote but is longer, with a meta-lesson and more process."
+ },
+ "academic-08__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same spine and outline. A adds more substantive help: the point that the 'coarse measure' defence cuts both ways, a confidence interval for r = .19, concrete analyses (regression, interaction, sibling control) and a way to reconcile Schmitz and Kaya as a contribution. B is tighter and drafts an opening sentence, but it is more template-like."
+ },
+ "life-decision-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A builds the script around one clear spine: an undecided choice between hybrid and full move, with Callum at the centre. It reorders the user's own points into a tight, sayable script. B adds a useful CMS warning and an exit line, but it is longer and more coach-like, and puts invented commitments in the user's mouth."
+ },
+ "positioning-01__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 6,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "B's spine, loyalty in both directions, ties the farm relationships to the 19-month retention and makes the page cohere. Its copy sticks to the owner's own facts and it raises the sharp price-floor question. A's notes are useful, but it invents details like the Brunswick garage, the roaster that barely fit and knowing each lot's taste, and it runs longer."
+ },
+ "strategy-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both reframe the decision around capacity and cash. A goes further and rebuilds the memo itself, with a recommendation up front, a capacity table, the objection handled, and decisions for the founders. It's ready to send once the gaps are filled. B has sharp extra insights (PureForm as the protein channel, fundraising) but stays as analysis, runs longer, and only offers to restructure."
+ },
+ "business-decision-08__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both reach the same reframe: exclusivity is the decision, so replace the vote with a negotiation mandate. B is tighter and has a crisper spine. A wins narrowly on usefulness: it sizes year-1 revenue, stress-tests Arogya's 3,000 projection with a downside case, estimates the foreclosed pipeline value and gives concrete pre-offsite homework. B leaves more placeholders."
+ },
+ "proposal-07__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both lead with the ask and bring in the budget split and free flat. A delivers this with less scaffolding and a crisp 'What this will achieve' paragraph. B keeps more of the user's voice and adds a timeline, but its diagram and 'what moved' list add process clutter. A's assumption that the blocks are in Govan is a minor slip."
+ },
+ "oped-10__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 6,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both make the same diagnosis: the essay argues fines are immoral, but the evidence shows they don't work. B delivers a ready rebuilt draft in the author's own words, moving the €6 story to the ending to solve that problem, with placeholders for missing figures. A gives sound advice and a sample ending but leaves the rewrite undone."
+ },
+ "positioning-03__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A gives a crisp decision rule: the homepage belongs to whoever arrives without a more specific link. It also recasts Ciarán's expertise as the method rather than a rival audience. B has useful extras (diary hours, reframing 'premium') but runs longer and invents claims like 'No GP referral needed' and 'don't sign you off until ready'."
+ },
+ "positioning-02__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: get paid faster, with proof up top. B delivers more paste-ready copy, with a hero, proof strip using all three stats and a how-it-works that folds in the user's own features. A gives stronger extras on mobile bounce and investors. However, its draft stops at the hero, and B's work is more complete despite some diagram clutter."
+ },
+ "academic-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same retention-failure spine. A delivers it more tightly: a causal-chain diagram, a clear verdict on each option, an outline and a rewritten opening paragraph ready to use. B adds a valuable time-in-place confound, but it is longer and more advisory, with less ready-to-use text."
+ },
+ "talk-04__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both tie verification to bill splitting's growth case and keep the answer as A. B adds the sharper caveat that an invite asks people to pay, a weaker pull than money waiting to be withdrawn. It also explicitly answers the framing worry and gives practical advice on the manager. A is tighter and has a crisp spine, but B helps more."
+ },
+ "pitch-05__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A presents team versus product as a false choice and ties the team to the B2B buyers who are actually paying. It delivers a ready slide order and a rewritten narrative summary. B gives similar diagnosis and a good reframing quote, but mostly offers advice and leaves the rewrite undone."
+ },
+ "life-decision-09__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same insight: the two options are one life of 70-80 hours, and teaching is the overlooked answer. B turns this into a clear decision rule with ordered fallbacks and concrete checks to make before the deadline. A is warmer and has a useful hourly-pay comparison, but it ends with open questions instead of a decision path."
+ },
+ "proposal-08__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 9
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same angle: understaffing already costs more than the hires. B states it more sharply and stays tighter. Its break-even (37%) and float-pool cost (P3.15M) are correct, and it avoids A's overclaims such as the 'cost-neutral' subject line and annualized diversions. A adds useful advice (talk to the CNO, a phased option) but is padded."
+ },
+ "proposal-03__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both lead with internal losses and cut the 60% stat. A's deck is tighter and more ready to present, but its options slide treats $59k as a yearly loss. B warns against exactly that overclaim and adds sharper CFO points: frame the decision as the difference from a hardware refresh, and get Ridgeline's sign-off. That makes it more credible."
+ },
+ "strategy-10__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both reach the same diagnosis, and B's 'one engine' framing is tighter. A helps more: its revenue math (the MXN 6M warehouse equals 6–7 months of net revenue) and its pre-send checks on credit selection bias and default maturity matter for a first-time strategist. A also covers when Monterrey could be right and keeps the app, which B cut without basis."
+ },
+ "oped-01__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both rightly lead with the leavers. B's draft flows more cleanly, where A repeats the agency figure. B also flags real risks: the 'full shift' claim may be inaccurate, and Trust media policy. B's added lines and bracketed placeholder cost it some fidelity and readiness. A's diagram adds clutter."
+ },
+ "life-decision-03__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reframe the choice around getting into planning work. B dissolves the user's stated cost by reusing the statement of intent as a cover letter and gives a decision rule tied to the acceptance deadline. Its imposter-syndrome point draws on her own sample. A is cleaner but adds unsupported claims about hiring levels and employer funding. B's diagram and 'what moved' section add clutter."
+ },
+ "strategy-06__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both centre the roadmap on dynamic slotting. B's rebuilt draft is ready to paste, and it links equal allocation to the flat-list framing, which turns the other themes into enablers and gated options without dismissing their sponsors. A's weighting table and sponsor advice are useful. B invents 'without any marketing', and A's '5 committed sites' overstates a request."
+ },
+ "positioning-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both centre the page on getting paid faster and move the proof to the top. A commits to one headline and gives a ready-to-paste top section plus a full page skeleton that uses the user's own stats and features. B offers several headline options and adds mobile and investor advice, which is useful but long for a request that said 'keep it short.'"
+ },
+ "oped-06__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 6,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both pivot on Maddie's 'teachers don't care' and end with a clear ask. A invents details (thirty kids, teachers buying supplies, a parents' paragraph, province funding) that drift from her material. B builds the ask strictly from what colleagues said was missing, keeps the diagramming line, and recasts 'old-fashioned' as a rebuttal. B is truer to her voice."
+ },
+ "strategy-02__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "B's central idea is sharper: both founders already agree lending is the business and differ only on how to fund it. That ends the circular argument. B rebuilds the board update from the user's own numbers and adds an explicit Ghana decision rule. A has good substance, especially its pressure-test of the lending numbers, but reads more like a list of advice than a reframe."
+ },
+ "oped-03__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both rewrites rebuild the piece around the Hobart Street trial. A's spine, three worries each answered by a number, is tighter and sticks closer to the facts. B invents details: 'two years ago', the association opposing (only the president did), delivery worries and an 'independent' survey. B's commitments list and verification tips are useful, but its loose facts tip the balance to A."
+ },
+ "strategy-01__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both find the same spine. A's draft argues better: Gantt is gated by SSO, it proposes a concrete AI spike with a cost, and it says what would change the plan. B's draft is tighter and brackets unknowns rather than asserting them, but adds process clutter (diagram, 'what moved') and gives thinner deferral reasons."
+ },
+ "pitch-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "A has a crisp spine and a tight flow. B is better for this specific meeting: a persuasive argument for the AE, a correct scenario table, a separate win for procurement, a phased commercial ask and CFO objection prep. B's extrapolation to all five DCs is clearly labelled a hypothesis. It is longer, but nearly all of it is substantive."
+ },
+ "team-03__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same unifying story: staffing is the root cause and ShiftGrid is the fixable amplifier. B tightens it with an attrition loop and gives a near-script outline with honest placeholders. A offers sharper pre-meeting checks, such as burnout by number of shift changes, but is longer and more advisory and less ready to present."
+ },
+ "proposal-01__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 5
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A gives a more persuasive, ready-to-use draft. Moving the founding history into 'Why it works' explains why the voucher succeeds instead of reading as background. B uses the person's own data cleverly and stays more faithful, but it front-loads scaffolding (spine, diagram, move list), and its rebuilt draft still reads somewhat like a report. A adds small embellishments like 'at night'."
+ },
+ "proposal-07__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 6
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both lead with what the money buys and use the track record as proof. B is leaner, but it asserts facts the user never gave: it places the blocks in Govan and changes 'many' to 'most' first-time performers. That is risky in a grant application. A stays faithful with placeholders and keeps the user's values, though its diagram and change list add clutter."
+ },
+ "pitch-05__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reframe the question around traction and B2B buyers. B's through-line is sharper because the team is presented as built to sell to the institutions that are paying. B also delivers a rebuilt narrative summary and a slide order with honest placeholders, whereas A only offers to do the rewrite. B's diagram and 'what moved' section add some clutter."
+ },
+ "positioning-07__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both reframe results as the founders' achievement. A is more ready to use: fuller first-section copy naming the founders, a Portuguese line for Dr. Ricardo, mockup and test tactics, and sharper OAB and accuracy checks. B is tighter and turns values into proof, but its headline B risks an implied promise of results."
+ },
+ "oped-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 6
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both find the same thesis: the org mismatch is the argument and the numbers are the evidence. A delivers a complete rebuilt post that keeps the author's voice and leaves brackets for missing facts. B's CTO and privacy notes are valuable, but it gives only an outline and an opening, and it invents details like 'early 2023' and 'owner on paper'."
+ },
+ "team-10__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both catch the analysis/recommendation mismatch. B fully rebuilds the Background, Analysis, Options and Recommendation in the user's own wording, flagging gaps as placeholders and leaving N to the boss. A has sharp extras (queue-policy fix, sample bias, the fair staffing case) but only rewrites the recommendation, so it is less ready to use."
+ },
+ "life-decision-01__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both see the back as the real frame. B turns that into a clear decision rule: go unless a concrete NHS route off manual handling appears by Friday. It adds a recommendation and a tight to-do list. A gives richer pension and revalidation detail and a useful gut-check, but is longer and less decisive. B has minor template placeholders."
+ },
+ "business-decision-07__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both diagnose the begging tone and produce a strong rewrite. A is more useful: a ready-to-paste loyalty clause for the two big firms, advice to set a floor, and the 25% volume-loss maths that addresses her fear. B keeps more of her material, but its before/after diagram and 'what moved' list add process clutter."
+ },
+ "strategy-04__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both give honest verdicts and a tiered structure. A goes further: it delivers a ready-to-use rebuilt memo built from the user's own numbers, with clear placeholders, and links tickets to initiatives. B's critique is deeper (EMR category jump, unrepresentative accounts, Platform cost), but it is longer and stops at an outline plus an offer to redraft."
+ },
+ "oped-09__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both reframe the piece as a story of trying the big fix, watching it fail and then finding a smaller one. A's 'who gets the tips' line is sharper but carries process clutter in its diagram and changelog. B is leaner, and its legal flag is genuinely valuable: under FLSA, cooks can share pooled tips only if everyone gets full minimum wage. B invents a few flourishes, like the $32 entree and Sazeracs."
+ },
+ "business-decision-04__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both spot the real flaw: a pivot resting on unchecked conference chats. B turns that weak evidence into the email's first task, a short test, which gives a clear decision rule and makes the draft cohere. A's honest open-options email is solid but more diffuse. A's added alternatives dilute the message. B's diagram is minor clutter."
+ },
+ "team-06__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both find the same 'structural, not personal' argument. A's memo is more complete and ready to send: it fills in the interim steps and gives a concrete, costed technician ask, plus practical pre-send checks. B leaves key sections as placeholders, adds diagram and 'what moved' scaffolding, and overstates that losing the technician would leave both instruments unsupported."
+ },
+ "oped-05__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reach the same answer: write the dilemma. B's 'weather risk vs market risk' framing is accurate and coheres the material, and B is warm and readable. A overstates that sorghum 'did not beat maize' (contract sorghum's 26,400 topped maize's 25,200) and adds 'what moved' clutter, though its outline and decision rule are useful."
+ },
+ "business-decision-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both reorder well, leading with the churn evidence and turning the affordability worry into an argument. B adds a correct 27% break-even calculation and anticipates Dev's objections, which a numbers-driven reader needs. It does invent a 90-day notice, a $99 annual lock and an ~80% estimate. A is more faithful but carries process clutter and less firepower."
+ },
+ "life-decision-04__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "The person asked 'tell me what you see.' A diagnoses sharply: 'not yet' is either the year apart or Chicago again, and the promise is framed around their identity rather than Luana. B's rebuild and decision rule are concrete, but the diagram and 'what moved' list add clutter. B also misses the second reading of 'not yet' and pushes 'we go together.'"
+ },
+ "strategy-09__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same core idea: goal first, then RICE within comparable-unit tiers. A delivers a ready-to-send rebuilt writeup with placeholders instead of invented numbers. B adds sharp capacity and stars points and a good CEO quote, but it runs longer, assumes capacity and allocation figures, and doesn't hand over a finished draft."
+ },
+ "business-decision-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both reframe the decision around exclusivity and a negotiating mandate. A delivers this more tightly, with a scripted, ready-to-run 15-minute slot that leads with the adherence insight and offers ordered fallback terms. B adds useful stress-testing and homework, but runs about twice as long and adds speculative figures, such as foreclosed revenue and volume thresholds."
+ },
+ "team-01__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both lead with the change and reframe the 11-day stat as a structural problem. A does it with less clutter and adds a key warning that Platform should hear first. B's before/after diagram and long 'what moved' list are process overhead. B keeps slightly more of the original wording, but that doesn't outweigh A's tighter, more actionable result."
+ },
+ "proposal-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 9,
+   "B": 5
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same spine: the survey shows significance and the drift data shows innovation. A delivers it tightly in a usable rebuilt page and brackets unknowns rather than inventing them. B adds valuable reviewer-anticipation points, but it runs long and assumes the survey covered Iowa growers."
+ },
+ "business-decision-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both reframe trade as Dad's legacy and propose a trial. B does the sums the user admitted skipping: it shows full running costs (~£100k extra sales to break even) and cuts the 'staff saving' argument down to size. It also adds cost-cutting levers and clear success criteria. A is tighter and truer to the user's material but leaves the core numbers blank."
+ },
+ "talk-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both make the February dry spell the centre, with water efficiency as its cause. A gives a more slide-ready rebuild but repeats itself across the diagram, change list and outline. B adds two things that matter: a caution not to overclaim from one dry spell, and the tactic of asking the board how often such spells happen."
+ },
+ "positioning-04__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same humidity spine from the reviews. B is tighter and uses placeholders instead of inventing details. A invents the '85% humidity' line and a 'very large market' claim. B also flags the data investors will ask for and ends the About page with the customers' own 'finally not sticky'. A's verdict table is helpful but longer than it needs to be."
+ },
+ "life-decision-02__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 6
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both lead with the news. A keeps nearly all of Karthik's material and voice, including the Pongal and Deepa's wedding details that matter to his parents, and leaves a placeholder for the call. B reads warmly but drops those details and puts invented lines and specifics ('this weekend') in his mouth. A's diagram is mild clutter."
+ },
+ "talk-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 6
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both answers make the 'same heatwaves' comparison the spine and build near-identical structures. A's opening uses only the speaker's real data and is tighter. B's vivid two-dive anecdote invents scenes, dates and details the notes don't support. B's language tips are useful, but its notes add length."
+ },
+ "talk-08__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 6,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both find the same hinge: same heatwaves, different outcomes. A's opening is vivid, but it invents a two-dives-in-one-week scene the person never described. B's opening uses only the person's real data, still names the fishers and frames the hopeful question, and it flags comparability and fairness to harvesters. B is also tighter."
+ },
+ "strategy-08__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reframe the decision around the 9k/week capacity cap and the £310k cash. B goes further and delivers a rebuilt memo the founders can use: a clear recommendation, a capacity table with placeholders, the objection handled, and decisions requested. It keeps the user's two pages as an appendix. A gives sound analysis but leaves the rewrite undone and runs longer."
+ },
+ "proposal-10__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 10
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 9
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same survey-to-drift-to-feasibility spine. B states it more crisply and keeps the app by reframing Aim 3 to test whether growers keep using the sensor. It also keeps the user's team line and delivers a ready draft with less clutter. A adds useful interference points and a timeline but runs long and assumes the survey was of Iowa growers."
+ },
+ "positioning-06__v1_1_j0": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both see that the page speaks to tenants rather than donors. A undercuts that by choosing tagline B, which addresses tenants. B stays coherent: A for donors, B for the help page, plus a donor-facing alternative tagline. B adds a useful caveat on the 64% vs 40% comparison and a timed board plan. A has process clutter (ASCII diagram, 'What moved')."
+ },
+ "proposal-02__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 6,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same core tension: revenue depends on the entries the charge is meant to cut. B's rebuilt memo keeps nearly all of the original wording, folds revenue decline into the design and uses placeholders instead of invented figures. A estimates revenue numbers and asserts unsupported claims about OSBU. A's draft is also less complete, and it spends more space on diagnosis."
+ },
+ "pitch-04__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "A has the crisper spine and is tighter. B diagnoses more sharply what the user asked about. It gives the contract question its own slide, notes that the 41% saving is only against coal while the market slide includes district heating, raises EaaS capex financing and unit economics, and argues for cutting the roadmap. Its logic chain also makes the order click."
+ },
+ "team-01__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both lead with the news and reframe the 11-day stat as a structural problem. B's rebuilt email scans better, with clear bullets and a subject line. It also adds a high-value point: Platform should hear the news before the org-wide email. A spends more space on process, including a before/after diagram and a 'what moved' log, which adds clutter."
+ },
+ "academic-03__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 9,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B's spine is sharper: the two-sector model predicts informal wages fall under a supply inflow, yet they rose. That makes disemployment the setup for the wage result and gives both co-authors their point. A is tighter and more faithful but frames a softer twist. B also gives a concrete conclusion sentence and a contingency if the composition checks fail."
+ },
+ "pitch-09__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B pinpoints the real contradiction: the ask funds expansion, and a 2026 Colombia/Chile launch conflicts with Q4 2026 breakeven. It gives a stronger four-point case for the CEO, a use-of-funds and milestones template, and pre-send checks such as whether USD 3M actually reaches breakeven. A is tighter but its diagram adds little and it misses these points."
+ },
+ "team-08__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both make the same core move: credit the team's work and own the planning failure. B wins on fidelity. It keeps more of Bartek's wording, explicitly flags its assumption about how the milestone was agreed, and uses placeholders instead of inventing commitments. A writes a new monthly-hours policy into the draft. B's apology also leads directly into the new rules, which reads tighter."
+ },
+ "pitch-02__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reach the same verdict: takt leads, with a gated platform. B gets there more tightly and keeps the CEO's own material, including the 11-tools line, using placeholders rather than invented claims. A writes new strategy into the rewrite (shell, MEP, façade expansion) and is longer, though its board-dynamics advice is useful."
+ },
+ "pitch-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both build the pitch around the 'I'm fine' hook and callback. A is tighter and keeps Lyon first; its France callback is clever. B adds a sharper closing line and delivery advice for the next nine days: pause after the line, put numbers on a slide, and what to cut first. That edges it on practical help."
+ },
+ "life-decision-08__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both find the same central point: Tarvo plus the non-solicit is a single point of failure. B is more accurate. Without Tarvo it correctly finds near break-even at zero draw, where A says a loss. B also spots that asking Tarvo may itself breach the clause and gives a clear go/no-go rule. Its process headings add some clutter."
+ },
+ "life-decision-05__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both diagnose 'backwards' correctly and lead with the report project. A's rewrite is nearly submission-ready with only one placeholder, and it flags its invented reflection. B's spine is sharper, but its diagram, move list and three placeholders add clutter and leave more work, and its unflagged 'didn't have a name for it' claim is invented."
+ },
+ "proposal-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 9,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reframe the letter around the same point: understaffing already costs more than the hires. A is tighter and cleaner. B adds high-value moves for a twice-rejected request: ask the CNO what would satisfy them, offer a phased fallback, commit to 3- and 6-month outcome reporting, and note the FTE math. These justify its extra length."
+ },
+ "pitch-01__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B builds a clear causal spine: no record, no credit; a habit that sticks; data to underwrite. Every number becomes a step in one argument. B also keeps the $800B stat and flags its own assumption for checking. A opens strongly on retention, but it drops the $800B figure while claiming to have moved it, and it adds extra Q&A material."
+ },
+ "team-05__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A names one spine, 'the job got bigger and lonelier, so pay alone won't fix it', and delivers a rebuilt paper ready for Thursday, with honest placeholders. B anticipates more trustee questions (pay relativities, the vacancy plan, CEO framing) but gives only an outline. It is longer and slightly overstates the evidence by saying only one leaver cited pay."
+ },
+ "talk-03__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 9,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reframe performance-vs-communication well and build similar what/when/who outlines. B gives a fuller one-sentence claim, ties findings to specific literature (Bell, Denis), and fills in implications. It also handles the late-night finding carefully and leaves time for Q&A. A is tighter and catches the English-teasing comparison, but leaves the 'so what' blank."
+ },
+ "oped-04__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B notices that lineation reverses the pattern, since Pell keeps the line breaks, so neither translator is simply 'the faithful one'. That gives the essay a real turn, and B delivers a rewritten intro ready to use. A offers useful theory and a sharp check on source editions, but files lineation as plain opposition and is longer and more scaffolded."
+ },
+ "positioning-01__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 6
+  },
+  "concision": {
+   "A": 8,
+   "B": 5
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A's spine, loyalty in both directions, ties the farms to the 19-month retention, and its rebuilt copy uses only the owner's facts. B's copy is solid and its notes are useful, but it invents details ('roaster that barely fit', knowing plots and families, 'friend handed them a bag'). B's 'every bean' line contradicts the guest lots, and it runs much longer."
+ },
+ "proposal-03__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both make the same good flip: lead with the internal losses and cut the vendor stat. B's rebuilt slides are more ready to use. But B's 'do nothing' slide treats one bad year as ~$59k/yr, a CFO-facing overclaim that A explicitly warns against. A also adds sharper advice: frame the decision as the cost difference versus a refresh, and get Ridgeline's sign-off."
+ },
+ "oped-06__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 6
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both find the same hinge: Maddie's line that teachers \"mostly don't care.\" A builds its asks only from what the colleagues said and keeps her sentence-diagramming memory. B invents material: \"thirty kids,\" teachers buying storage themselves, and a parents paragraph. It also cuts her detail. B's pre-submission checks are useful, but A stays truer to her voice and facts."
+ },
+ "strategy-07__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both reframe schools as the consumer acquisition channel using the 31% stat. A's note is more offsite-ready: it names a concrete not-doing list (vernacular deferred), sharper metrics, and practical checks on blended CAC, B2C revenue and pre-briefing founders. B's 'what moved' section adds process clutter, and its 'not doing' line is vaguer."
+ },
+ "positioning-05__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 5,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both reverse the page so install facts and pilot proof lead. B is tighter, keeps 'predictive maintenance' for search, and gives a near-finished draft. A goes further: it flags the unverifiable 'before they would have occurred' claim, pushes for post-year-one pricing, gives a headline recommendation and an A/B test. That depth outweighs its extra length."
+ },
+ "strategy-05__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 7
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both centre the plan on the 47% vs 18% retention gap. A better answers the CMO's money questions: it reframes CAC as cost per retained user (R$211 vs R$81), preps likely hard questions, and flags MXN pricing and OXXO as other Mexico culprits. B is tighter and invents fewer numbers, but leaves the money slide as placeholders."
+ },
+ "talk-06__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both reorder around the trader question. B states a sharper spine (a working street versus a costly removal) and carries it into the close with the sunk-cost and removal-cost framing. It separates Stage 2 from retention and flags unknowns in brackets rather than inventing commitments. A's Q&A prep is useful, but it adds an unsourced 'lesson learned' commitment."
+ },
+ "oped-08__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same 'wrong clock' thread. B edges ahead with a complete two-paragraph opening in the author's voice, a headline, and an explicit line rejecting 'failing plans'. Its outline includes a limits section, and it flags missing data. A's precision checks are valuable, but its opening and structure are slightly less ready to use. B's diagram adds mild clutter."
+ },
+ "team-06__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both reframe the problem as structural rather than personal and put the ask first. B's memo is more send-ready: it argues why a core facility fixes each root cause, sets out concrete interim steps and a costed technician ask, and gives sharp pre-send checks. B adds a little invented content and runs longer; A leaves key gaps as placeholders."
+ },
+ "positioning-10__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both make the same link: the guarantees are Dad's values in writing. A delivers a tighter rewrite with sharp, practical notes: tap-to-call, a risky 'no upsells' line, the unexplained 'three generations' and the dated photo. B's diagram and 'what moved' changelog add process clutter, and its final copy is no stronger."
+ },
+ "academic-06__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 9,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both find the same spine: routing, not size, is the bottleneck. A puts the ready-to-use draft first, hedges claims to fit the evidence, and flags its 38% assumption and related work like EdgeMoE. B front-loads process before the draft, overstates 'not by model size', and leaves its ablation contribution vaguer, though its placeholders and load-balancing note help."
+ },
+ "academic-04__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both find the same core problems: an overclaimed effect, a quote promoted to 'the mechanism', and buried ASHA visits as a rival explanation. B states a crisp spine, keeps more of the author's wording, and delivers a fuller rebuilt section plus limitations text in less space. A adds useful extra checks, such as interviewer identity and phone access, but is wordier."
+ },
+ "team-09__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 8
+  },
+  "winner": "A",
+  "reason": "Both reframe the paper around fragmentation costs and calculate the ~SGD 60k net cost. B is tighter and its rebuilt outline is more ready to use. A edges it on substance: it argues why Option B leaves version risk, warns against presenting 9–10M as savings, and gives concrete pre-meeting tactics for the DocuNest partners."
+ },
+ "oped-05__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 6,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B finds a sharper spine: the contract, not the crop, made sorghum pay. It also delivers a full outline, an opening built on the wife's verdict, a no-contract scenario and a concrete decision rule. A is warm and accurate but stops at a third-option suggestion. B's diagram and 'what moved' section add clutter, but it is more ready to use."
+ },
+ "talk-01__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both make handover the spine. B states it in one sentence and pairs footwear and sensor mats with their fixes. It also pre-empts the seasonality challenge by deriving the April–September rate from the user's own numbers, with clear placeholders for missing data. A's closing line claims evening falls dropped, which the data doesn't yet show, and it includes more generic tips."
+ },
+ "business-decision-06__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: Bom Dia decides it, and freelancers bridge the gap for Bruno and Lis. A's 'two problems, two timelines' framing is crisp, but its table and 'what moved' list add process clutter. B's email is cleaner and ready to send, honestly admits the CD won't fix production, and adds the useful advice to call Camila first."
+ },
+ "positioning-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both centre the case on the 8% renewal cap. B wins on usefulness: ready-to-say stakeholder lines, a one-sentence argument, and sharper risk checks (adverse selection, Consumer Duty, compounding maths). A is tighter and more careful, flagging competitor caps to verify, whereas B asserts 'nobody's beating us' without evidence."
+ },
+ "pitch-07__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 9,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both rightly say to demote the human angle rather than cut it. A gives a tighter, faithful rebuilt draft. B answers the actual venture-scale question directly with acquirers and rough revenue math, and flags multiplex competition and specificity. Those are the critical investor objections. Its assumptions slightly stretch fidelity, but it helps more."
+ },
+ "strategy-10__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: the evidence supports fixing the CDMX core first. B adds analysis a first-time strategy owner needs: the MXN 910K monthly revenue against the 6M warehouse, when Monterrey could still be right, and credit bias and default-maturity caveats. B overstates some facts, claiming losses in 60% of zones and '9 months', and runs longer. A is tighter but thinner."
+ },
+ "oped-03__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both rebuild around the buried Hobart Street data and the president who changed her mind. B's rewrite maps each trader objection to one answering number, a tighter spine, and it ends on a stronger line. A adds small invented details ('two years ago', 'said so publicly'). B's ASCII diagram is minor clutter."
+ },
+ "strategy-01__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both find the same spine: onboarding retention plus SSO/SCIM. B's rebuilt memo argues more fully, with the correlation caveat, sequencing, an AI spike option and 'what would change this plan', making it more send-ready. A is more careful, bracketing unknowns. B asserts unverified claims, such as the mobile refresh taking a full quarter, and A spends space on process scaffolding."
+ },
+ "life-decision-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 8
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both see that Tarvo and the non-solicit clause are one risk. B adds material practical points: VAT and withholding, collection lags, the firm fighting to keep Tarvo, cheaper office options, and an overdraft while still salaried. It wrongly says the no-Tarvo case loses money even with no draw. A has accurate maths and a sharp decision rule, but process headings clutter it."
+ },
+ "pitch-03__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 8
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 5,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "Both rewrites lead with the pilot numbers and cut the vendor clichés. B puts the email first and follows it with the quick note the user asked for. Its idea to put Daniel in the subject line is stronger. A's diagram and headings add process clutter, and its placeholders leave the email less ready to send."
+ },
+ "team-02__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B finds a clear spine: three gaps between timeline events, each with its own causes and fixes. It then delivers a rebuilt postmortem ready for Wednesday, with assumptions bracketed. A's analysis is solid, and its freeze-bypass question is sharp, but it only outlines the restructure and leaves the rewriting to the user."
+ },
+ "academic-10__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same claim: retention failure produced by lot design. B makes it more usable, with a causal-chain diagram, a clear verdict on each option, a mapped outline and a rewritten opening paragraph. A adds valuable examiner caveats, especially the time-in-place confound, but is wordier and less ready to drop into the draft."
+ },
+ "life-decision-04__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 6,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "The user asked what feels off. B answers that directly: 'not yet' secretly means either a year apart or Chicago again. It adds sharp observations: waiting has no endpoint, remote work cuts both ways, the possible grief, and Thiago as more than a default. A is concrete but overly prescriptive, imposing a 'we go together' decision, and its 'What moved' section is clutter."
+ },
+ "academic-08__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same central idea: the data favour input, not transfer. B adds sharper diagnosis, noting the coarse-measure defence applies only to the unwanted result, and gives a correct confidence interval. It also covers reconciling with the prior studies, the interaction test and targeted checks for the introduction. A is tighter and offers a draft opening, but it is thinner and uses some cryptic formatting."
+ },
+ "positioning-06__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 8,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both see that the page speaks to tenants, not donors. A follows that through, turning B's outcome into a donor-facing headline, 'Help a neighbour keep their home', and flagging the 64%-vs-40% causation risk. B keeps a tenant-addressed tagline as the donor headline, which undercuts its own diagnosis. B also adds process clutter: an ASCII diagram and a 'what moved' list."
+ },
+ "business-decision-01__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 8,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both correctly spot the hidden 4am cost and the staffing risk. B gives a clearer decision: hire first, hold the oven. It also surfaces the key unknown, whether the current oven is actually the bottleneck, and adds a concrete rule for when to buy it. A's 'do both' risks loan plus salary on thin margins. B's meta headings add some clutter."
+ },
+ "talk-09__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 9,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both answers find the same spine: onboarding through MedPraxis, using tenured customers as a control group. A gives a more presentable slide-by-slide rebuild with exact figures and stays accurate. B adds useful checks, such as a first-year churn baseline and activation data. However, B misstates that 16 exceeds price plus support combined, when 9 + 7 = 16, an error that could surface in front of leadership."
+ },
+ "strategy-04__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 9
+  },
+  "concision": {
+   "A": 5,
+   "B": 8
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B gives a clear spine and a rebuilt memo that uses the user's own numbers, with placeholders where facts are missing. It handles the 0.4% objection fairly and ties the reliability fixes to both no-show and AI. A's critique is sharp and honest but long, and it stops at an outline plus an offer to redraft."
+ },
+ "talk-03__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both reframe the claim as social rather than referential meaning and sort the findings well. B is tighter and adds a dedicated slide anticipating the proficiency objection. It also catches the missing English-teasing baseline. A's claim sentence and implications are more polished, and its time budget is more realistic, but it is wordier."
+ },
+ "life-decision-06__v1_1_j1": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 8
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both catch the rent-versus-farm income gap and the Wes issue. B sorts every item into three columns, which fixes the 'both' problem. It names the one question that is really theirs to answer and gives a crisp decision rule and a Thanksgiving script. A has good insights, like the buyout math and a trial season, but is looser and less decisive."
+ },
+ "oped-01__v1_1_j1": {
+  "through_line": {
+   "A": 7,
+   "B": 9
+  },
+  "structure": {
+   "A": 7,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 8
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 7,
+   "B": 8
+  },
+  "winner": "B",
+  "reason": "B states a clear spine and builds an arc: it opens on the leavers, turns on the agency figure, then answers the concession, and the ending pays off the opening. A crams both key facts into paragraph one, adds invented lines and leaves a placeholder. A's fact-checking advice is valuable, but B's piece coheres better and is closer to ready."
+ },
+ "oped-02__v1_1_j1": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 9
+  },
+  "usefulness": {
+   "A": 7,
+   "B": 9
+  },
+  "fidelity": {
+   "A": 7,
+   "B": 9
+  },
+  "concision": {
+   "A": 7,
+   "B": 7
+  },
+  "overall": {
+   "A": 7,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "Both find the same thesis: the org-chart mismatch is the point, and the numbers are the evidence. B delivers a full rebuilt post in the user's own words. It keeps the HN-friendly numbers up top, replaces 'it depends' with a rule and flags gaps with placeholders. A offers sharp advice on the CTO line and burnout privacy but gives only an outline, and it invents an 'early 2023' date."
+ },
+ "positioning-04__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 7
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "Both find the same humidity spine from the reviews. A delivers it more tightly and uses placeholders instead of inventing details. B's table is helpful, but its copy adds unverified specifics (85% humidity, 'wet towel half the year', market-size claims) and runs longer. A's 'Missing' list gives the user honest preparation for the investor pitch."
+ },
+ "oped-04__v1_1_j0": {
+  "through_line": {
+   "A": 8,
+   "B": 9
+  },
+  "structure": {
+   "A": 8,
+   "B": 8
+  },
+  "usefulness": {
+   "A": 9,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 9,
+   "B": 8
+  },
+  "concision": {
+   "A": 8,
+   "B": 6
+  },
+  "overall": {
+   "A": 8,
+   "B": 9
+  },
+  "winner": "B",
+  "reason": "B gives a sharper, contestable thesis: Reyburn keeps the fish names but removes the fisherman. It tests it against 'predictable verdict' framing and adds useful theory anchors and an edition check. A is tighter, rewrites the intro, and handles lineation better, but its thesis is more descriptive and its key claim is left as a placeholder."
+ },
+ "business-decision-04__v1_1_j0": {
+  "through_line": {
+   "A": 9,
+   "B": 7
+  },
+  "structure": {
+   "A": 9,
+   "B": 7
+  },
+  "usefulness": {
+   "A": 8,
+   "B": 8
+  },
+  "fidelity": {
+   "A": 8,
+   "B": 7
+  },
+  "concision": {
+   "A": 7,
+   "B": 6
+  },
+  "overall": {
+   "A": 9,
+   "B": 7
+  },
+  "winner": "A",
+  "reason": "A turns the weak evidence into the first task: test Threadline before pausing the game. That makes the email cohere and keeps the team's love of games central. B diagnoses the same flaw well but mostly lists critiques, adds alternatives Tomasz never proposed, and runs longer. Its email is honest but lacks A's decisive shape."
+ }
+}

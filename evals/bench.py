@@ -35,8 +35,11 @@ KEY = Path("~/.config/anthropic/key").expanduser()
 
 # Knowledge work (writing test prompts, judging answers): Opus 5.5 at high effort
 OPUS, OPUS_EFFORT = "claude-opus-5-5", "high"
-# Simple per-item work (the model under test): Haiku 4.5
+# Simple per-item work (the default model under test): Haiku 4.5
 HAIKU = "claude-haiku-4-5-20251001"
+# TESTED=opus runs the same cases on Opus 5.5 at high effort instead (use its own DATA_DIR).
+TESTED = OPUS if os.environ.get("TESTED") == "opus" else HAIKU
+TESTED_NAME = "opus" if TESTED == OPUS else "haiku"
 
 # Prices per million tokens (input, output); batch is half.
 PRICE = {OPUS: (4.0, 20.0), HAIKU: (1.0, 5.0)}
@@ -176,7 +179,10 @@ def skill_system():
 
 
 def run_params(case, arm):
-    p = {"model": HAIKU, "max_tokens": 8000, "messages": [{"role": "user", "content": case["prompt"]}]}
+    p = {"model": TESTED, "max_tokens": 8000, "messages": [{"role": "user", "content": case["prompt"]}]}
+    if TESTED == OPUS:
+        p["max_tokens"] = 24000  # thinking counts toward max_tokens
+        p["output_config"] = {"effort": OPUS_EFFORT}
     if arm.startswith("skill"):
         p["system"] = [{"type": "text", "text": skill_system(), "cache_control": {"type": "ephemeral"}}]
     else:
@@ -229,7 +235,7 @@ def run_batch(c, requests, label):
 def cmd_runs(cases, batch=True):
     answers = load("answers.json", {})
     c = client()
-    arms = (SKILL_ARM,) if VARIANT else ("skill", "base")
+    arms = (SKILL_ARM, "base")
     todo = [(f"{cs['id']}__{arm}", run_params(cs, arm)) for cs in cases for arm in arms
             if f"{cs['id']}__{arm}" not in answers]
     if not todo:
@@ -241,11 +247,11 @@ def cmd_runs(cases, batch=True):
         with cf.ThreadPoolExecutor(6) as ex:
             msgs = dict(zip([t[0] for t in todo], ex.map(lambda t: live(c, t[1]), todo)))
     for cid, m in msgs.items():
-        spent += cost(HAIKU, m.usage, batch)
+        spent += cost(TESTED, m.usage, batch)
         answers[cid] = {"text": text_of(m), "stop": m.stop_reason,
                         "in": m.usage.input_tokens, "out": m.usage.output_tokens}
     save("answers.json", answers)
-    log_cost(f"haiku_runs{VARIANT}", spent)
+    log_cost(f"{TESTED_NAME}_runs{VARIANT}", spent)
     print(f"{len(msgs)} answers, cost ${spent:.2f}")
     return answers
 
@@ -352,14 +358,14 @@ def cmd_report():
     res = {"cases": n, "case_wins": dict(cw), "judgements": dict(judgements), "judge_agreement": consistent,
            "criteria_avg": avg, "median_words": {"skill": ws, "base": wb}, "sign_test_p": p_value,
            "by_category": {k: dict(v) for k, v in by_cat.items()}, "cost_usd": costs,
-           "models": {"tested": HAIKU, "judge": f"{OPUS} (effort {OPUS_EFFORT})"}, "per_case": per_case}
-    tag = f"_{VARIANT.replace('_', '.')}" if VARIANT else "_v1.0"
+           "models": {"tested": TESTED, "judge": f"{OPUS} (effort {OPUS_EFFORT})"}, "per_case": per_case}
+    tag = (f"_{VARIANT.replace('_', '.')}" if VARIANT else "_v1.0") + ("_opus" if TESTED == OPUS else "")
     shown = VARIANT.replace("_", ".") if VARIANT else "v1.0"
     res["skill_version"] = shown
     save(f"results{tag}.json", res)
 
     lines = [f"# shape-rotate {shown} benchmark results\n",
-             f"{n} test cases. Model under test: `{HAIKU}`. Judges: `{OPUS}` at {OPUS_EFFORT} effort, blind, two per case with A/B order swapped.\n",
+             f"{n} test cases. Model under test: `{TESTED}`{' at ' + OPUS_EFFORT + ' effort' if TESTED == OPUS else ''}. Judges: `{OPUS}` at {OPUS_EFFORT} effort, blind, two per case with A/B order swapped.\n",
              "| | Skill wins | Baseline wins | Ties |", "|---|---|---|---|",
              f"| Cases (both judges' votes combined) | **{cw['skill']}** | {cw['base']} | {cw['tie']} |",
              f"| Individual judgements | **{judgements['skill']}** | {judgements['base']} | {judgements['tie']} |\n",
