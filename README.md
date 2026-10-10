@@ -84,17 +84,22 @@ The AI hype got cut, the Ballarat result became the opening, and privacy moved f
 
 We tested it on **100 realistic "my work is stuck" requests** across 10 categories: op-eds, talks, pitches, academic writing, strategy, proposals, positioning, team problems, and business and life decisions. Each request was answered twice by the same model, once with the skill and once without. **Two blind AI judges** compared every pair without knowing which answer used the skill, with the order swapped between them.
 
-On **Claude Opus 5.5**, the table counts how many of the 200 judgements rated the skill answer better or worse:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/charts/head-to-head-dark.png">
+  <img src="assets/charts/head-to-head-light.png" alt="Head to head on 100 requests: with Opus 5.5 the skill won 44, plain won 34, 22 ties; Haiku 4.5 v1.1 45 to 50 with 5 ties; Haiku 4.5 v1.0 27 to 58 with 15 ties" width="100%">
+</picture>
 
-| With shape rotate, compared with without | Better | Worse |
-|---|---|---|
-| Clear central idea | **98** | 14 |
-| Pieces arranged so it works | **101** | 44 |
-| Faithful to the person's own facts | **141** | 29 |
-| Concise | **111** | 60 |
-| **Cases won outright** | **44** | 34 (22 ties) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/charts/criteria-dark.png">
+  <img src="assets/charts/criteria-light.png" alt="Of 200 judgements per model, how often the skill scored higher or lower on six criteria, for Opus 5.5 and Haiku 4.5" width="100%">
+</picture>
 
-Answers were also about a quarter shorter (a median of 573 words against 748). The skill did best on op-eds (5 to 1), research talks (5 to 1), academic writing, strategy and team problems. Its weak spot is business decisions (1 to 7), where the judges wanted the arithmetic checked and the recommendation first. The overall lean (56% of decisive cases) is not yet statistically significant. The four criterion gains above are (p < 0.001).
+On **Claude Opus 5.5**, the skill gave a clearer central idea, a better arrangement and answers more faithful to the person's facts, all by wide margins (p < 0.001). Answers were also about a quarter shorter (a median of 573 words against 748). The skill did best on op-eds (5 to 1), research talks (5 to 1), academic writing, strategy and team problems. Its weak spot is business decisions (1 to 7), where the judges wanted the arithmetic checked and the recommendation first. The overall lean (56% of decisive cases) is not yet statistically significant.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/charts/categories-dark.png">
+  <img src="assets/charts/categories-light.png" alt="Opus 5.5 cases won per category, with shape rotate versus without" width="100%">
+</picture>
 
 On the small **Haiku 4.5** model, the method still sharpened the central idea and structure, but Haiku invented details when it rebuilt drafts, so the result was a draw. Version 1.0 made Haiku narrate the whole method and lost clearly. Version 1.1 keeps the working private and forbids invented facts, which turned that loss into a draw.
 

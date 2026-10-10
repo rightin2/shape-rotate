@@ -14,6 +14,11 @@
 
 A case counts as a win when both judges pick the same side. If they split, it's a tie.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/charts/head-to-head-dark.png">
+  <img src="../assets/charts/head-to-head-light.png" alt="Head to head on 100 requests: with Opus 5.5 the skill won 44, plain won 34, 22 ties; Haiku 4.5 v1.1 45 to 50 with 5 ties; Haiku 4.5 v1.0 27 to 58 with 15 ties" width="100%">
+</picture>
+
 ### What changed, criterion by criterion
 
 The table counts how many of the 200 judgements scored the skill answer higher or lower than the plain one.
@@ -27,9 +32,20 @@ The table counts how many of the 200 judgements scored the skill answer higher o
 | Usefulness (ready to use) | 65 / 94 (slightly worse, p = 0.03) | **106 / 60** (p < 0.001) |
 | Overall | 110 / 84 (p = 0.07) | 94 / 105 |
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/charts/criteria-dark.png">
+  <img src="../assets/charts/criteria-light.png" alt="Of 200 judgements per model, how often the skill scored higher or lower on six criteria, for Opus 5.5 and Haiku 4.5" width="100%">
+</picture>
+
 The method does what it is designed to do on both models: a clearer central idea and a better arrangement of the pieces. On Opus, it also made answers more faithful to the person's own material and about a quarter shorter (a median of 573 words against 748).
 
 ### By category (Opus 5.5)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/charts/categories-dark.png">
+  <img src="../assets/charts/categories-light.png" alt="Opus 5.5 cases won per category, with shape rotate versus without" width="100%">
+</picture>
 
 | Category | Skill | Plain | Tie |
 |---|---|---|---|
