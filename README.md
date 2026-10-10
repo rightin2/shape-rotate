@@ -21,6 +21,50 @@ Usually nothing is missing. The pieces are just **arranged in the wrong shape**.
 
 **shape rotate** makes that move explicit and repeatable.
 
+## Install
+
+**Claude Code (recommended):**
+
+```bash
+/plugin marketplace add rightin2/shape-rotate
+/plugin install shape-rotate@shape-rotate
+```
+
+Update later with `claude plugin update shape-rotate@shape-rotate`.
+
+<details>
+<summary><b>Other ways to install</b></summary>
+
+**Any agent that reads Agent Skills** (Claude Code, Codex, Cursor and others), with the [skills CLI](https://github.com/vercel-labs/skills):
+
+```bash
+npx skills add rightin2/shape-rotate
+```
+
+**Manual copy into Claude Code:**
+
+```bash
+git clone https://github.com/rightin2/shape-rotate.git
+cp -r shape-rotate/skills/shape-rotate ~/.claude/skills/
+```
+
+**Claude.ai or the Claude desktop app:** on this page choose **Code > Download ZIP**, unzip it, zip just the `skills/shape-rotate` folder, then upload that zip under **Settings > Capabilities > Skills**.
+
+</details>
+
+## Try it
+
+Once installed, it triggers on its own when you say things like:
+
+- *"This draft doesn't land, help me find the angle."*
+- *"I keep going round in circles on this decision."*
+- *"My findings feel like a pile of facts with no through-line."*
+- *"Shape rotate this."*
+
+Paste your draft, notes or options along with it. You get back the one-sentence spine, the diagram that clicked, a list of what moved, and the rebuilt work, in your own voice and built only from your own material.
+
+It works on essays, reports, strategy docs, pitch decks, thesis chapters, research syntheses, talks and hard decisions. Anything where the pieces are there but the shape isn't.
+
 ## What it does
 
 <picture>
@@ -102,35 +146,6 @@ On the older **Haiku 4.5** model, the method still sharpened the central idea an
 
 Full results, every answer, every verdict with its reasons, and the script to rerun it are in **[evals/](evals/)**. Total API cost: $24.
 
-## Install
-
-**Claude Code (plugin):**
-
-```bash
-/plugin marketplace add rightin2/shape-rotate
-/plugin install shape-rotate@shape-rotate
-```
-
-**Claude Code (manual):**
-
-```bash
-git clone https://github.com/rightin2/shape-rotate.git
-cp -r shape-rotate/skills/shape-rotate ~/.claude/skills/
-```
-
-**Claude.ai / Claude desktop:** download `skills/shape-rotate` as a zip and upload it under *Settings > Capabilities > Skills*.
-
-## Use it
-
-It triggers on its own when you say things like:
-
-- *"This draft doesn't land, help me find the angle."*
-- *"I keep going round in circles on this decision."*
-- *"My findings feel like a pile of facts with no through-line."*
-- *"Shape rotate this."*
-
-It works on essays, reports, strategy docs, pitch decks, thesis chapters, research syntheses, talks and hard decisions. Anything where the pieces are there but the shape isn't.
-
 ## What's inside
 
 ```
@@ -148,6 +163,13 @@ evals/
 ├── bench.py                    rerun it yourself
 └── data*/                      every case, answer and judge verdict
 ```
+
+## Limits
+
+- It restructures what you give it. It won't research new facts, and where a fact is missing it leaves a bracketed gap for you to fill instead of inventing one.
+- On numbers-heavy business decisions, plain Claude still did better in testing: judges wanted the arithmetic checked and the recommendation first.
+- On the older Haiku 4.5 model it was a draw, not a win.
+- It is for work that is stuck. For a quick fact or a short reply, it adds nothing.
 
 ## About the image
 
