@@ -1,6 +1,10 @@
 {
   "name": "shape-rotate",
-  "owner": { "name": "Jean-Luc Alder", "url": "https://github.com/rightin2" },
+  "description": "shape rotate: a Claude skill that makes stuck work click into place.",
+  "owner": {
+    "name": "Jean-Luc Alder",
+    "url": "https://github.com/rightin2"
+  },
   "plugins": [
     {
       "name": "shape-rotate",
