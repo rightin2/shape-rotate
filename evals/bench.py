@@ -37,12 +37,14 @@ KEY = Path("~/.config/anthropic/key").expanduser()
 OPUS, OPUS_EFFORT = "claude-opus-5-5", "high"
 # Simple per-item work (the default model under test): Haiku 4.5
 HAIKU = "claude-haiku-4-5-20251001"
-# TESTED=opus runs the same cases on Opus 5.5 at high effort instead (use its own DATA_DIR).
-TESTED = OPUS if os.environ.get("TESTED") == "opus" else HAIKU
-TESTED_NAME = "opus" if TESTED == OPUS else "haiku"
+# Haiku 5.5, tested at its default (medium) effort.
+HAIKU55, HAIKU55_EFFORT = "claude-haiku-5-5", "medium"
+# TESTED=opus or TESTED=haiku55 runs the same cases on another model (give it its own DATA_DIR).
+TESTED_NAME = os.environ.get("TESTED", "haiku")
+TESTED = {"opus": OPUS, "haiku55": HAIKU55}.get(TESTED_NAME, HAIKU)
 
 # Prices per million tokens (input, output); batch is half.
-PRICE = {OPUS: (4.0, 20.0), HAIKU: (1.0, 5.0)}
+PRICE = {OPUS: (4.0, 20.0), HAIKU: (1.0, 5.0), HAIKU55: (0.10, 0.50)}
 
 CATEGORIES = {
     "oped": "an op-ed, essay or blog post draft that doesn't land",
@@ -180,9 +182,9 @@ def skill_system():
 
 def run_params(case, arm):
     p = {"model": TESTED, "max_tokens": 8000, "messages": [{"role": "user", "content": case["prompt"]}]}
-    if TESTED == OPUS:
+    if TESTED in (OPUS, HAIKU55):
         p["max_tokens"] = 24000  # thinking counts toward max_tokens
-        p["output_config"] = {"effort": OPUS_EFFORT}
+        p["output_config"] = {"effort": OPUS_EFFORT if TESTED == OPUS else HAIKU55_EFFORT}
     if arm.startswith("skill"):
         p["system"] = [{"type": "text", "text": skill_system(), "cache_control": {"type": "ephemeral"}}]
     else:
@@ -359,13 +361,13 @@ def cmd_report():
            "criteria_avg": avg, "median_words": {"skill": ws, "base": wb}, "sign_test_p": p_value,
            "by_category": {k: dict(v) for k, v in by_cat.items()}, "cost_usd": costs,
            "models": {"tested": TESTED, "judge": f"{OPUS} (effort {OPUS_EFFORT})"}, "per_case": per_case}
-    tag = (f"_{VARIANT.replace('_', '.')}" if VARIANT else "_v1.0") + ("_opus" if TESTED == OPUS else "")
+    tag = (f"_{VARIANT.replace('_', '.')}" if VARIANT else "_v1.0") + ("" if TESTED == HAIKU else f"_{TESTED_NAME}")
     shown = VARIANT.replace("_", ".") if VARIANT else "v1.0"
     res["skill_version"] = shown
     save(f"results{tag}.json", res)
 
     lines = [f"# shape-rotate {shown} benchmark results\n",
-             f"{n} test cases. Model under test: `{TESTED}`{' at ' + OPUS_EFFORT + ' effort' if TESTED == OPUS else ''}. Judges: `{OPUS}` at {OPUS_EFFORT} effort, blind, two per case with A/B order swapped.\n",
+             f"{n} test cases. Model under test: `{TESTED}`{' at ' + (OPUS_EFFORT if TESTED == OPUS else HAIKU55_EFFORT) + ' effort' if TESTED != HAIKU else ''}. Judges: `{OPUS}` at {OPUS_EFFORT} effort, blind, two per case with A/B order swapped.\n",
              "| | Skill wins | Baseline wins | Ties |", "|---|---|---|---|",
              f"| Cases (both judges' votes combined) | **{cw['skill']}** | {cw['base']} | {cw['tie']} |",
              f"| Individual judgements | **{judgements['skill']}** | {judgements['base']} | {judgements['tie']} |\n",

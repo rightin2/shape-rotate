@@ -23,15 +23,10 @@ Usually nothing is missing. The pieces are just **arranged in the wrong shape**.
 
 ## What it does
 
-```mermaid
-flowchart LR
-    A["1. Pin the click<br/>job, friction, test"] --> B["2. Break into pieces<br/>every claim, fact, objection"]
-    B --> C["3. Draw the shape<br/>tree, tension map, 2x2..."]
-    C --> D["4. Rotate<br/>re-center, invert, re-order,<br/>change reader, scale, modality"]
-    D --> E{"5. Does it click?"}
-    E -- no --> D
-    E -- yes --> F["6. Rebuild the work<br/>around the shape"]
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/charts/method-dark.png">
+  <img src="assets/charts/method-light.png" alt="The six steps: pin the click, break into pieces, draw the shape, rotate, click test, rebuild. Rotate and click test repeat until it clicks." width="100%">
+</picture>
 
 1. **Pin what "click" means.** What the work has to do, what feels wrong, and how you'll know it's fixed.
 2. **Break it into pieces.** Every claim, piece of evidence, constraint and objection becomes a labelled piece. Pieces can be moved or cut on purpose, but never dropped quietly.
@@ -86,13 +81,15 @@ We tested it on **100 realistic "my work is stuck" requests** across 10 categori
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/charts/head-to-head-dark.png">
-  <img src="assets/charts/head-to-head-light.png" alt="Head to head on 100 requests: with Opus 5.5 the skill won 44, plain won 34, 22 ties; Haiku 4.5 v1.1 45 to 50 with 5 ties; Haiku 4.5 v1.0 27 to 58 with 15 ties" width="100%">
+  <img src="assets/charts/head-to-head-light.png" alt="Head to head on 100 requests: with Opus 5.5 the skill won 44, plain won 34, 22 ties; Haiku 5.5 48 to 27 with 25 ties; Haiku 4.5 v1.1 45 to 50 with 5 ties; Haiku 4.5 v1.0 27 to 58 with 15 ties" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/charts/criteria-dark.png">
-  <img src="assets/charts/criteria-light.png" alt="Of 200 judgements per model, how often the skill scored higher or lower on six criteria, for Opus 5.5 and Haiku 4.5" width="100%">
+  <img src="assets/charts/criteria-light.png" alt="Of 200 judgements per model, how often the skill scored higher or lower on six criteria, for Opus 5.5, Haiku 5.5 and Haiku 4.5" width="100%">
 </picture>
+
+On **Claude Haiku 5.5**, the skill won clearly: 48 cases to 27, with 25 ties (p = 0.02). It gave a clearer central idea, a better arrangement, answers more faithful to the person's facts and answers more ready to use, at about the same length.
 
 On **Claude Opus 5.5**, the skill gave a clearer central idea, a better arrangement and answers more faithful to the person's facts, all by wide margins (p < 0.001). Answers were also about a quarter shorter (a median of 573 words against 748). The skill did best on op-eds (5 to 1), research talks (5 to 1), academic writing, strategy and team problems. Its weak spot is business decisions (1 to 7), where the judges wanted the arithmetic checked and the recommendation first. The overall lean (56% of decisive cases) is not yet statistically significant.
 
@@ -101,9 +98,9 @@ On **Claude Opus 5.5**, the skill gave a clearer central idea, a better arrangem
   <img src="assets/charts/categories-light.png" alt="Opus 5.5 cases won per category, with shape rotate versus without" width="100%">
 </picture>
 
-On the small **Haiku 4.5** model, the method still sharpened the central idea and structure, but Haiku invented details when it rebuilt drafts, so the result was a draw. Version 1.0 made Haiku narrate the whole method and lost clearly. Version 1.1 keeps the working private and forbids invented facts, which turned that loss into a draw.
+On the older **Haiku 4.5** model, the method still sharpened the central idea and structure, but Haiku invented details when it rebuilt drafts, so the result was a draw. Version 1.0 made Haiku narrate the whole method and lost clearly. Version 1.1 keeps the working private and forbids invented facts, which turned that loss into a draw.
 
-Full results, every answer, every verdict with its reasons, and the script to rerun it are in **[evals/](evals/)**. Total API cost: $21.
+Full results, every answer, every verdict with its reasons, and the script to rerun it are in **[evals/](evals/)**. Total API cost: $24.
 
 ## Install
 
@@ -144,11 +141,12 @@ skills/shape-rotate/
     └── agent-brief.md          the brief each parallel agent receives
 assets/
 ├── hero.png
-└── render_hero.py              the code that draws the image above
+├── render_hero.py              the code that draws the image above
+└── charts/                     the diagram and charts, and the code that draws them
 evals/
 ├── README.md                   the 100-case benchmark and what it found
 ├── bench.py                    rerun it yourself
-└── data/, data-opus/           every case, answer and judge verdict
+└── data*/                      every case, answer and judge verdict
 ```
 
 ## About the image

@@ -80,12 +80,13 @@ def header(fig, t, title, subtitle, legend=(("With shape rotate", "skill"), ("Ti
 
 def chart_head_to_head(t, name):
     runs = [("Opus 5.5", "skill v1.1", load(EVALS / "data-opus/results_v1.1_opus.json")),
+            ("Haiku 5.5", "skill v1.1", load(EVALS / "data-haiku55/results_v1.1_haiku55.json")),
             ("Haiku 4.5", "skill v1.1", load(EVALS / "data/results_v1.1.json")),
             ("Haiku 4.5", "skill v1.0", load(EVALS / "data/results_v1.0.json"))]
-    fig = plt.figure(figsize=(10, 4.4), facecolor=t["bg"])
+    fig = plt.figure(figsize=(10, 5.2), facecolor=t["bg"])
     header(fig, t, "Head to head on 100 stuck-work requests",
            "Cases won when both blind judges agreed. Same model with and without the skill.")
-    ax = fig.add_axes([0.2, 0.06, 0.76, 0.64])
+    ax = fig.add_axes([0.2, 0.05, 0.76, 0.68])
     style(ax, t, grid_axis=None)
     for i, (model, ver, r) in enumerate(runs):
         y = len(runs) - 1 - i
@@ -111,13 +112,14 @@ def chart_head_to_head(t, name):
 
 def chart_criteria(t, name):
     panels = [("Opus 5.5", criterion_counts(load(EVALS / "data-opus/verdicts.json"), "v1_1_")),
+              ("Haiku 5.5", criterion_counts(load(EVALS / "data-haiku55/verdicts.json"), "v1_1_")),
               ("Haiku 4.5", criterion_counts(load(EVALS / "data/verdicts.json"), "v1_1_"))]
     fig = plt.figure(figsize=(10, 5.4), facecolor=t["bg"])
     header(fig, t, "What the skill changes",
            "Of 200 blind judgements per model, how often the skill answer scored higher or lower (skill v1.1).",
            legend=(("Skill scored higher", "skill"), ("Skill scored lower", "plain")))
     for pi, (model, counts) in enumerate(panels):
-        ax = fig.add_axes([0.22 + pi * 0.4, 0.06, 0.34, 0.62])
+        ax = fig.add_axes([0.22 + pi * 0.265, 0.07, 0.235, 0.6])
         style(ax, t)
         ax.set_title(model, fontsize=12.5, fontweight="bold", color=t["text"], loc="center", pad=8)
         for i, (c, label) in enumerate(CRITERIA):
@@ -125,14 +127,15 @@ def chart_criteria(t, name):
             hi, lo = counts[c]
             ax.barh(y, hi, height=0.6, color=t["skill"])
             ax.barh(y, -lo, height=0.6, color=t["plain"])
-            ax.text(hi + 4, y, str(hi), va="center", ha="left", fontsize=9.5, color=t["text"])
-            ax.text(-lo - 4, y, str(lo), va="center", ha="right", fontsize=9.5, color=t["text"])
+            ax.text(hi + 5, y, str(hi), va="center", ha="left", fontsize=8.5, color=t["text"])
+            ax.text(-lo - 5, y, str(lo), va="center", ha="right", fontsize=8.5, color=t["text"])
             if pi == 0:
-                ax.text(-215, y, label, va="center", ha="right", fontsize=10.5, color=t["text"])
+                ax.text(-225, y, label, va="center", ha="right", fontsize=10.5, color=t["text"])
         ax.axvline(0, color=t["muted"], linewidth=1)
         ax.set_xlim(-200, 200)
-        ax.set_xticks([-150, -100, -50, 0, 50, 100, 150])
-        ax.set_xticklabels(["150", "100", "50", "0", "50", "100", "150"])
+        ax.set_xticks([-150, -75, 0, 75, 150])
+        ax.set_xticklabels(["150", "75", "0", "75", "150"])
+        ax.tick_params(labelsize=8.5)
         ax.set_yticks([])
         ax.set_ylim(-0.6, len(CRITERIA) - 0.4)
     fig.savefig(OUT / f"{name}-{t['mode']}.png", dpi=200, facecolor=t["bg"])
