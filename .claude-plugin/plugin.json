@@ -1,0 +1,8 @@
+{
+  "name": "shape-rotate",
+  "description": "Make a stuck argument, report, plan or decision click into place: visualize every piece, rotate the shape through deliberate lenses until it locks together, then rebuild the work around it. Optional multi-agent mode.",
+  "version": "1.0.0",
+  "author": { "name": "Jean-Luc Alder", "url": "https://github.com/rightin2" },
+  "license": "MIT",
+  "keywords": ["skill", "reasoning", "writing", "strategy", "reframing", "multi-agent"]
+}

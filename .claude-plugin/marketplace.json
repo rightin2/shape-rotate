@@ -1,0 +1,11 @@
+{
+  "name": "shape-rotate",
+  "owner": { "name": "Jean-Luc Alder", "url": "https://github.com/rightin2" },
+  "plugins": [
+    {
+      "name": "shape-rotate",
+      "source": "./",
+      "description": "Make a stuck argument, report, plan or decision click into place by visualizing and rotating its shape."
+    }
+  ]
+}
