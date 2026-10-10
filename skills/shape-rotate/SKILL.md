@@ -9,6 +9,33 @@ Some work fails not because a piece is missing but because the pieces are arrang
 
 The output is not a list of suggestions. It is the shape that clicked, shown, plus the work rebuilt around it.
 
+## What the reply looks like
+
+Everything in "The method" below is your private working: do it in your thinking or scratch space, not in the reply. The person asked for their work to be fixed, not for a tour of the method, and in testing, replies that narrated the steps (the click test, the piece inventory, every rotation tried) were longer and judged worse. The reply starts with the answer and uses this structure:
+
+```
+## The spine
+<one sentence>
+
+## The shape that clicked
+<one small diagram, under about 12 lines>
+<two or three lines: what was wrong with the old arrangement and what the new one fixes>
+
+## What moved
+- <piece>: <from where> -> <to where>, because <reason>
+- Cut: <piece>, because <reason>
+- Missing: <anything the work needs that the person has not given>
+
+## Rebuilt
+<the restructured draft, outline or decision>
+```
+
+Three rules for the reply, each for a reason:
+
+- **Never mention this skill, its steps, rotations, fit scores or the click test.** They are scaffolding. Name at most the one move that unlocked it, in plain words ("the two problems you listed are one problem").
+- **Use only the person's material.** Do not add numbers, results, sources, quotes or examples they did not give, and keep every citation attached to the exact claim it supported. A rebuild that invents a statistic is worse than no rebuild, because the person may publish it. Where the work needs something they do not have, write a `[bracketed placeholder]` and list it under Missing.
+- **Keep it tight.** Everything except "Rebuilt" stays under about 250 words. The rebuilt work is as long as the job needs and, unless they asked for expansion, no longer than what they gave you. For a decision, "Rebuilt" is the reframed decision and a clear recommendation or decision rule, not an essay.
+
 ## When it is worth it
 
 Use the full method on substantive work: a report, strategy, essay, thesis chapter, pitch, research synthesis, or a decision with several competing factors. For a single paragraph or a quick reframe, run the solo pass with three rotations and keep the output short.
@@ -17,7 +44,7 @@ Use the full method on substantive work: a report, strategy, essay, thesis chapt
 
 ### 1. Pin what "click" means
 
-Write two or three lines before touching anything:
+Note these for yourself before touching anything:
 
 - **The job**: what this piece of work has to do, and for whom.
 - **The friction**: what feels wrong right now, in the user's words if they gave them. If they did not, name the symptom you see (no spine, buried lead, two arguments fighting, evidence that does not support the claim, a reader who would stop at page two).
@@ -74,27 +101,4 @@ When subagents are available and the work is substantive, rotation is much stron
 2. Spawn 3 to 5 agents. Give each one the job, the click test, the full piece list, the source material, and a **different starting representation plus a different subset of rotations**. Use the template in [references/agent-brief.md](references/agent-brief.md).
 3. Each agent returns: its clicked shape (diagram), the one-sentence spine, a fit score with reasons, and what it had to cut or flag as missing.
 4. Compare the results side by side. Where agents converge on the same center or spine, that is load-bearing structure you can trust. Where one agent found something the others missed, it is a candidate graft. Pick the strongest shape and graft the best ideas from the runners-up. "Averaging" means this synthesis, not blending everything into mush.
-5. Run the click test on the merged shape, then rebuild (step 6).
-
-## Output format
-
-Keep the working visible but compact. Use this structure:
-
-```
-## The spine
-<one sentence>
-
-## The shape that clicked
-<diagram>
-<two or three lines: which rotation unlocked it and why it works>
-
-## What moved
-- <piece> : <from where> -> <to where>, because <reason>
-- Cut: <piece>, because <reason>
-- Missing: <piece the work needs and does not have yet>
-
-## Rebuilt
-<the restructured draft, outline or decision>
-```
-
-Do the rotations and scoring in your own working, not in the reply. Readers in testing found a scorecard of every rotation to be clutter: they want the shape and the rebuilt work. Mention only the rotation that unlocked it (in "The shape that clicked") and offer the full rotation log if the user wants to see it. Keep the diagram; it is what lets the user see why the new arrangement works.
+5. Run the click test on the merged shape, then rebuild (step 6) and reply in the format above.

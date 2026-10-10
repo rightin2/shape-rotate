@@ -1,0 +1,40 @@
+# shape-rotate v1.1 benchmark results
+
+100 test cases. Model under test: `claude-haiku-4-5-20251001`. Judges: `claude-opus-5-5` at high effort, blind, two per case with A/B order swapped.
+
+| | Skill wins | Baseline wins | Ties |
+|---|---|---|---|
+| Cases (both judges' votes combined) | **45** | 50 | 5 |
+| Individual judgements | **95** | 105 | 0 |
+
+Win rate on decisive cases: **47%** (sign test p = 0.68). Both judges agreed on 95 of 100 cases.
+
+## Average scores (1 to 10)
+
+| Criterion | With skill | Without |
+|---|---|---|
+| through line | 7.71 | 7.12 |
+| structure | 7.05 | 6.55 |
+| usefulness | 7.18 | 6.54 |
+| fidelity | 5.29 | 6.62 |
+| concision | 5.44 | 7.32 |
+| overall | 6.59 | 6.68 |
+
+Median answer length: 617 words with the skill, 399 without.
+
+## By category
+
+| Category | Skill | Baseline | Tie |
+|---|---|---|---|
+| oped | 5 | 5 | 0 |
+| business-decision | 4 | 5 | 1 |
+| talk | 4 | 6 | 0 |
+| pitch | 5 | 5 | 0 |
+| academic | 2 | 6 | 2 |
+| strategy | 7 | 3 | 0 |
+| life-decision | 6 | 4 | 0 |
+| proposal | 4 | 5 | 1 |
+| positioning | 3 | 7 | 0 |
+| team | 5 | 4 | 1 |
+
+API cost: generate_cases $2.77, haiku_runs $0.89, opus_judges $3.59, haiku_runsv1_1 $0.45, opus_judgesv1_1 $2.59 (total $10.29).
