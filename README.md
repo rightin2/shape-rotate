@@ -17,7 +17,9 @@ Lay out every piece. See the shape. Rotate it until it locks.</p>
 
 You have all the pieces. The research is done, the notes are there, the draft exists. And it still doesn't land.
 
-Usually nothing is missing. The pieces are just **arranged in the wrong shape**. Good thinkers fix this by holding the whole thing in their head as a picture and turning it until it snaps together. Claude can do the same thing, but only if you ask it to. Asking a model to *visualize* the argument and then *rotate* it draws on a different part of what it knows than asking it to "improve this draft".
+Usually nothing is missing. The pieces are just **arranged in the wrong shape**. Good thinkers fix this by holding the whole thing in their head as a picture and turning it until it snaps together. Claude can do the same thing, but only if you ask it to.
+
+**Why it works:** a model holds what it knows as one huge map of connected ideas, called its *latent space*. Emad Mostaque's point is that this map really is a connected shape, much like a visual thinker sees a problem. So asking Claude to *visualize* every piece of the argument and then *rotate* it activates a different part of the latent space than "improve this draft" does, and connections that a line-by-line edit misses come into view. (The benchmark below tests the results, not the theory.)
 
 **shape rotate** makes that move explicit and repeatable.
 
@@ -177,7 +179,7 @@ The hero image was designed **with the skill itself**. A shape-rotate pass tried
 
 ## Origin
 
-The idea comes from a conversation between Emad Mostaque and Raoul Pal on Real Vision (September 2026). Raoul said his market analysis "isn't quite clicking". Emad's tip was to have the AI visualize every angle of the argument, then shape-rotate it until it clicks into place, using several agents and keeping the best result. His point was that this works because of how the model's latent space is organized. This repo turns that tip into a repeatable method.
+The idea comes from a conversation between Emad Mostaque and Raoul Pal on Real Vision (September 2026). Raoul said AI still couldn't do good macro market analysis for him: it couldn't connect the dots between a conversation and what it means for an asset, the way he does in his head, where everything is a connected network. Emad's answer was that you rotate the picture in your own head but never think to tell the AI to do the same. Tell it to visualize all the arguments from as many angles as possible, then shape-rotate them until they click into place, with several agents and the best result kept. It works, he said, because it "activates a different part of the latent space". This repo turns that tip into a repeatable method.
 
 ## License
 
